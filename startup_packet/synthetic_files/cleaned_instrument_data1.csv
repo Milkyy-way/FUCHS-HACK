@@ -1,0 +1,537 @@
+report_id,instrument,product,result,product1_id,product2_id,product3_id
+Report_1000,Thermocycler TC-5000,"Coconut Oil, Cetyl Alcohol, Glycerin",59,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_1000,Titrator T-905,"Coconut Oil, Beeswax, Vitamin E",0.008,Coconut Oil,Beeswax,Vitamin E
+Report_1000,NMR Spectrometer NMR-500,"Coconut Oil, Cetyl Alcohol, Glycerin",15.2,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_1000,Spectrometer Alpha-300,"Almond Oil, Gum, Glycerin",530,Almond Oil,Gum,Glycerin
+Report_1000,pH Meter PH-700,"Almond Oil, Gum, Vitamin E",6.5,Almond Oil,Gum,Vitamin E
+Report_1000,Liquid Chromatograph LC-400,"Almond Oil, Gum, Glycerin",320,Almond Oil,Gum,Glycerin
+Report_1003,Centrifuge X100,"Jojoba Oil, Cetyl Alcohol, Vitamin E",12000,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_1003,UV-Vis Spectrophotometer UV-2600,"Coconut Oil, Gum, Vitamin E",1.5,Coconut Oil,Gum,Vitamin E
+Report_1003,Microplate Reader MRX,"Coconut Oil, Gum, Glycerin",3.2,Coconut Oil,Gum,Glycerin
+Report_1003,Microplate Reader MRX,"Almond Oil, Gum, Glycerin",1.8,Almond Oil,Gum,Glycerin
+Report_1003,HPLC System HPLC-9000,"Almond Oil, Beeswax, Vitamin E",200.5,Almond Oil,Beeswax,Vitamin E
+Report_1003,Viscometer VS-300,"Coconut Oil, Beeswax, Vitamin E",4889.12,Coconut Oil,Beeswax,Vitamin E
+Report_1003,Viscometer VS-300,"Coconut Oil, Beeswax, Vitamin E",4695.28,Coconut Oil,Beeswax,Vitamin E
+Report_1081,Spectrometer Alpha-300,"Coconut Oil, Cetyl Alcohol, Glycerin",500,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_1081,Viscometer VS-300,"Coconut Oil, Cetyl Alcohol, Vitamin E",4972.92,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_1081,Viscometer VS-300,"Almond Oil, Beeswax, Glycerin",7118.4,Almond Oil,Beeswax,Glycerin
+Report_1083,UV-Vis Spectrophotometer UV-2600,"Almond Oil, Gum, Vitamin E",2.5,Almond Oil,Gum,Vitamin E
+Report_1083,Ion Chromatograph IC-2100,"Coconut Oil, Cetyl Alcohol, Vitamin E",25,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_1083,Centrifuge X100,"Almond Oil, Beeswax, Glycerin",12000,Almond Oil,Beeswax,Glycerin
+Report_1083,Four Ball FB-1000,"Jojoba Oil, Cetyl Alcohol, Vitamin E",0.700,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_1087,Thermocycler TC-5000,"Coconut Oil, Cetyl Alcohol, Vitamin E",60,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_1087,Liquid Chromatograph LC-400,"Jojoba Oil, Gum, Vitamin E",200,Jojoba Oil,Gum,Vitamin E
+Report_1087,Four Ball FB-1000,"Jojoba Oil, Cetyl Alcohol, Vitamin E",0.6,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_1087,NMR Spectrometer NMR-500,"Coconut Oil, Gum, Glycerin",15,Coconut Oil,Gum,Glycerin
+Report_1087,Viscometer VS-300,"Jojoba Oil, Gum, Glycerin",1983.91,Jojoba Oil,Gum,Glycerin
+Report_1088,Ion Chromatograph IC-2100,"Coconut Oil, Beeswax, Vitamin E",75.2,Coconut Oil,Beeswax,Vitamin E
+Report_1088,TC-5000,"Jojoba Oil, Gum, Glycerin",37,Jojoba Oil,Gum,Glycerin
+Report_1088,MRX,"Coconut Oil, Gum, Glycerin",3.1,Coconut Oil,Gum,Glycerin
+Report_1088,FTIR-8400,"Coconut Oil, Cetyl Alcohol, Glycerin",1245,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_1088,T-905,"Almond Oil, Beeswax, Vitamin E",0.005,Almond Oil,Beeswax,Vitamin E
+Report_1088,Viscometer VS-300,"Jojoba Oil, Gum, Glycerin",1984.19,Jojoba Oil,Gum,Glycerin
+Report_1088,Viscometer VS-300,"Coconut Oil, Gum, Vitamin E",5282.12,Coconut Oil,Gum,Vitamin E
+Report_109,Mass Spectrometer MS-20,"Coconut Oil, Beeswax, Vitamin E",1100,Coconut Oil,Beeswax,Vitamin E
+Report_109,Rheometer R-4500,"Jojoba Oil, Gum, Glycerin",550,Jojoba Oil,Gum,Glycerin
+Report_109,UV-Vis Spectrophotometer UV-2600,"Coconut Oil, Gum, Glycerin",2.8,Coconut Oil,Gum,Glycerin
+Report_109,Rheometer R-4500,"Jojoba Oil, Gum, Vitamin E",700,Jojoba Oil,Gum,Vitamin E
+Report_109,Viscometer VS-300,"Jojoba Oil, Beeswax, Glycerin",2978.82,Jojoba Oil,Beeswax,Glycerin
+Report_1125,UV-Vis Spectrophotometer UV-2600,"Jojoba Oil, Gum, Glycerin",1.87,Jojoba Oil,Gum,Glycerin
+Report_1125,Four Ball FB-1000,"Jojoba Oil, Cetyl Alcohol, Vitamin E",0.675,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_1162,LC-400,"Coconut Oil, Beeswax, Vitamin E",250,Coconut Oil,Beeswax,Vitamin E
+Report_1162,VS-300,"Almond Oil, Gum, Glycerin",7694.27,Almond Oil,Gum,Glycerin
+Report_1172,MS-20,"Almond Oil, Cetyl Alcohol, Glycerin",845,Almond Oil,Cetyl Alcohol,Glycerin
+Report_1172,FB-1000,"Coconut Oil, Cetyl Alcohol, Glycerin",0.75,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_1172,HPLC-9000,"Jojoba Oil, Cetyl Alcohol, Glycerin",150,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_1172,NMR-500,"Jojoba Oil, Beeswax, Glycerin",12,Jojoba Oil,Beeswax,Glycerin
+Report_1185,HPLC System HPLC-9000,"Almond Oil, Beeswax, Vitamin E",0.75,Almond Oil,Beeswax,Vitamin E
+Report_1185,Conductivity Meter CM-215,"Almond Oil, Beeswax, Glycerin",1800,Almond Oil,Beeswax,Glycerin
+Report_1194,Microplate Reader MRX,"Jojoba Oil, Gum, Vitamin E",3.2,Jojoba Oil,Gum,Vitamin E
+Report_1194,UV-Vis Spectrophotometer UV-2600,"Jojoba Oil, Beeswax, Vitamin E",2.8,Jojoba Oil,Beeswax,Vitamin E
+Report_1194,PCR Machine PCR-96,"Almond Oil, Gum, Glycerin",16.5,Almond Oil,Gum,Glycerin
+Report_120,UV-Vis Spectrophotometer UV-2600,"Coconut Oil, Cetyl Alcohol, Glycerin",1.2,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_120,pH Meter PH-700,"Jojoba Oil, Cetyl Alcohol, Vitamin E",7.4,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_120,Viscometer VS-300,"Coconut Oil, Cetyl Alcohol, Vitamin E",5025.2,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_120,Viscometer VS-300,"Almond Oil, Beeswax, Glycerin",7108.01,Almond Oil,Beeswax,Glycerin
+Report_1200,Rheometer R-4500,"Almond Oil, Cetyl Alcohol, Vit E",750,Almond Oil,Cetyl Alcohol,Vit E
+Report_1200,pH Meter PH-700,"Almond Oil, Gum, Vitamin E",7,Almond Oil,Gum,Vitamin E
+Report_1200,pH Meter PH-700,"Jojoba Oil, Cetyl Alcohol, Glyc",6,Jojoba Oil,Cetyl Alcohol,Glyc
+Report_1200,Microplate Reader MRX,"Coconut Oil, Gum, Vit E",2.5,Coconut Oil,Gum,Vit E
+Report_1200,Spectrometer Alpha-300,"Coconut Oil, Beeswax, Vit E",450,Coconut Oil,Beeswax,Vit E
+Report_1200,NMR Spectrometer NMR-500,"Jojoba Oil, Gum, Glycerin",10,Jojoba Oil,Gum,Glycerin
+Report_1200,FTIR Spectrometer FTIR-8400,"Coconut Oil, Cetyl Alcohol, Vit E",1500,Coconut Oil,Cetyl Alcohol,Vit E
+Report_1200,Viscometer VS-300,"Jojoba Oil, Cetyl Alcohol, Glyc",2695.16,Jojoba Oil,Cetyl Alcohol,Glyc
+Report_1206,X-Ray Diffractometer XRD-6000,"Jojoba Oil, Gum, Vitamin E",45,Jojoba Oil,Gum,Vitamin E
+Report_1206,Ion Chromatograph IC-2100,"Almond Oil, Beeswax, Vitamin E",50,Almond Oil,Beeswax,Vitamin E
+Report_1226,Mass Spectrometer MS-20,"Jojoba Oil, Gum, Vitamin E",1750,Jojoba Oil,Gum,Vitamin E
+Report_1226,UV-Vis Spectrophotometer UV-2600,"Almond Oil, Beeswax, Vitamin E",1.8,Almond Oil,Beeswax,Vitamin E
+Report_1226,Conductivity Meter CM-215,"Jojoba Oil, Cetyl Alcohol, Glycerin",1500,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_1226,Thermocycler TC-5000,"Coconut Oil, Gum, Glycerin",85,Coconut Oil,Gum,Glycerin
+Report_1228,NMR-500,"Almond Oil, Beeswax, Vitamin E",Chemical Shift,Almond Oil,Beeswax,Vitamin E
+Report_1228,IC-2100,"Almond Oil, Beeswax, Glycerin",Concentration,Almond Oil,Beeswax,Glycerin
+Report_1228,PH-700,"Coconut Oil, Beeswax, Glycerin",pH,Coconut Oil,Beeswax,Glycerin
+Report_1228,LC-400,"Coconut Oil, Gum, Glycerin",Concentration,Coconut Oil,Gum,Glycerin
+Report_1228,HPLC-9000,"Jojoba Oil, Cetyl Alcohol, Vitamin E",Concentration,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_1228,X100,"Jojoba Oil, Cetyl Alcohol, Glycerin",Speed,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_1228,Alpha-300,"Almond Oil, Cetyl Alcohol, Vitamin E",Wavelength,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_1237,HPLC System HPLC-9000,"Coconut Oil, Cetyl Alcohol, Glycerin",0.5,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_1237,Liquid Chromatograph LC-400,"Coconut Oil, Beeswax, Vitamin E",50,Coconut Oil,Beeswax,Vitamin E
+Report_1237,Gas Chromatograph GC-2010,"Almond Oil, Beeswax, Vitamin E",500,Almond Oil,Beeswax,Vitamin E
+Report_1237,Mass Spectrometer MS-20,"Almond Oil, Gum, Glycerin",1500,Almond Oil,Gum,Glycerin
+Report_1237,Spectrometer Alpha-300,"Coconut Oil, Gum, Vitamin E",450,Coconut Oil,Gum,Vitamin E
+Report_1253,Liquid Chromatograph LC-400,"Almond Oil, Beeswax, Glycerin",Concentration,Almond Oil,Beeswax,Glycerin
+Report_1253,X-Ray Diffractometer XRD-6000,"Jojoba Oil, Gum, Vitamin E",Temperature,Jojoba Oil,Gum,Vitamin E
+Report_1253,Conductivity Meter CM-215,"Coconut Oil, Cetyl Alcohol, Glycerin",Conductivity,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_1253,Viscometer VS-300,"Jojoba Oil, Gum, Glycerin",Viscosity,Jojoba Oil,Gum,Glycerin
+Report_1262,Four Ball FB-1000,"Almond Oil, Gum, Vit E",Wear Scar Diameter,Almond Oil,Gum,Vit E
+Report_1262,Ion Chromatograph IC-2100,"Coconut Oil, Cetyl Alc, Glycerin",Concentration,Coconut Oil,Cetyl Alc,Glycerin
+Report_1262,pH Meter PH-700,"Coconut Oil, Beeswax, Glycerin",pH,Coconut Oil,Beeswax,Glycerin
+Report_1262,FTIR Spectrometer FTIR-8400,"Almond Oil, Gum, Glycerin",Absorbance,Almond Oil,Gum,Glycerin
+Report_128,Liquid Chromatograph LC-400,"Almond Oil, Gum, Vitamin E",250 μg/mL,Almond Oil,Gum,Vitamin E
+Report_128,Centrifuge X100,"Jojoba Oil, Cetyl Alcohol, Vitamin E",12000 RPM,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_128,Viscometer VS-300,"Coconut Oil, Beeswax, Vitamin E",4728.66 cP,Coconut Oil,Beeswax,Vitamin E
+Report_1316,Ionization at 1200 m/z,"Jojoba Oil, Beeswax, Glycerin",Identified Peaks,Jojoba Oil,Beeswax,Glycerin
+Report_1316,Elution at 340 mg/L,"Jojoba Oil, Beeswax, Glycerin",Component Quantified,Jojoba Oil,Beeswax,Glycerin
+Report_133,UV-Vis Spectrophotometer UV-2600,"Jojoba Oil, Cetyl Alcohol, Glycerin",1.25,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_133,Spectrometer Alpha-300,"Jojoba Oil, Beeswax, Vitamin E",850,Jojoba Oil,Beeswax,Vitamin E
+Report_133,Conductivity Meter CM-215,"Jojoba Oil, Beeswax, Glycerin",1500,Jojoba Oil,Beeswax,Glycerin
+Report_133,Conductivity Meter CM-215,"Almond Oil, Cetyl Alcohol, Vit E",1800,Almond Oil,Cetyl Alcohol,Vit E
+Report_133,Viscometer VS-300,"Almond Oil, Beeswax, Glycerin",7322.09,Almond Oil,Beeswax,Glycerin
+Report_133,Viscometer VS-300,"Jojoba Oil, Cetyl Alcohol, Glycerin",2628.15,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_133,Ion Chromatograph IC-2100,"Coconut Oil, Gum, Vitamin E",75,Coconut Oil,Gum,Vitamin E
+Report_1344,Gas Chromatograph GC-2010,"Almond Oil, Cetyl Alcohol, Glycerin",329.9,Almond Oil,Cetyl Alcohol,Glycerin
+Report_1344,Viscometer VS-300,"Jojoba Oil, Gum, Glycerin",1856.31,Jojoba Oil,Gum,Glycerin
+Report_1344,Viscometer VS-300,"Jojoba Oil, Gum, Glycerin",1880.08,Jojoba Oil,Gum,Glycerin
+Report_1344,Viscometer VS-300,"Almond Oil, Beeswax, Vitamin E",7164.26,Almond Oil,Beeswax,Vitamin E
+Report_1344,PCR Machine PCR-96,"Jojoba Oil, Cetyl Alcohol, Glycerin",28.4,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_1344,Microplate Reader MRX,"Almond Oil, Cetyl Alcohol, Vitamin E",2.8,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_1344,HPLC System HPLC-9000,"Almond Oil, Gum, Vitamin E",482.7,Almond Oil,Gum,Vitamin E
+Report_1363,Liquid Chromatograph LC-400,"Coconut Oil, Gum, Vitamin E",120.3 µg/mL,Coconut Oil,Gum,Vitamin E
+Report_1363,Rheometer R-4500,"Almond Oil, Gum, Vitamin E",120.5 Pa-s,Almond Oil,Gum,Vitamin E
+Report_1374,Gas Chromatograph GC-2010,"Almond Oil, Cetyl Alcohol, Glycerin",750,Almond Oil,Cetyl Alcohol,Glycerin
+Report_1374,HPLC System HPLC-9000,"Coconut Oil, Gum, Glycerin",850,Coconut Oil,Gum,Glycerin
+Report_1374,Rheometer R-4500,"Jojoba Oil, Beeswax, Vitamin E",400,Jojoba Oil,Beeswax,Vitamin E
+Report_1374,Four Ball FB-1000,"Jojoba Oil, Beeswax, Vitamin E",0.8,Jojoba Oil,Beeswax,Vitamin E
+Report_1378,Gas Chromatograph GC-2010,"Almond Oil, Gum, Glycerin",678,Almond Oil,Gum,Glycerin
+Report_1378,Conductivity Meter CM-215,"Jojoba Oil, Cetyl Alcohol, Glycerin",1540,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_1378,Four Ball FB-1000,"Almond Oil, Beeswax, Glycerin",0.753,Almond Oil,Beeswax,Glycerin
+Report_138,Conductivity Meter CM-215,"Jojoba Oil, Cetyl Alcohol, Vitamin E",750,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_138,X-Ray Diffractometer XRD-6000,"Jojoba Oil, Gum, Vitamin E",110,Jojoba Oil,Gum,Vitamin E
+Report_1402,NMR Spectrometer NMR-500,"Jojoba Oil, Cetyl Alcohol, Glycerin",12.5,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_1402,Gas Chromatograph GC-2010,"Almond Oil, Cetyl Alcohol, Glycerin",150,Almond Oil,Cetyl Alcohol,Glycerin
+Report_1402,HPLC System HPLC-9000,"Jojoba Oil, Beeswax, Glycerin",250,Jojoba Oil,Beeswax,Glycerin
+Report_1402,Centrifuge X100,"Almond Oil, Cetyl Alcohol, Glycerin",8000,Almond Oil,Cetyl Alcohol,Glycerin
+Report_1402,Centrifuge X100,"Jojoba Oil, Cetyl Alcohol, Glycerin",12000,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_1402,Titrator T-905,"Jojoba Oil, Beeswax, Glycerin",0.005,Jojoba Oil,Beeswax,Glycerin
+Report_143,Microplate Reader MRX,"Jojoba Oil, Cetyl Alcohol, Glycerin",3.2,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_143,Spectrometer Alpha-300,"Coconut Oil, Beeswax, Glycerin",550,Coconut Oil,Beeswax,Glycerin
+Report_143,NMR Spectrometer NMR-500,"Almond Oil, Gum, Vitamin E",12,Almond Oil,Gum,Vitamin E
+Report_143,Viscometer VS-300,"Coconut Oil, Cetyl Alcohol, Glycerin",5170.29,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_1432,Spectrometer Alpha-300,"Coconut Oil, Gum, Glycerin",715,Coconut Oil,Gum,Glycerin
+Report_1432,Gas Chromatograph GC-2010,"Coconut Oil, Beeswax, Vitamin E",0.5,Coconut Oil,Beeswax,Vitamin E
+Report_1432,Conductivity Meter CM-215,"Jojoba Oil, Gum, Glycerin",1200,Jojoba Oil,Gum,Glycerin
+Report_1432,Rheometer R-4500,"Jojoba Oil, Cetyl Alcohol, Vitamin E",0.9,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_1464,NMR Spectrometer NMR-500,"Jojoba Oil, Cetyl Alcohol, Vitamin E",8.5 ppm,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_1464,UV-Vis Spectrophotometer UV-2600,"Jojoba Oil, Cetyl Alcohol, Vitamin E",2.3 Abs,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_1466,Microplate Reader MRX,"Almond Oil, Beeswax, Vitamin E",2.7,Almond Oil,Beeswax,Vitamin E
+Report_1466,NMR Spectrometer NMR-500,"Almond Oil, Gum, Glycerin",12,Almond Oil,Gum,Glycerin
+Report_1466,X-Ray Diffractometer XRD-6000,"Almond Oil, Beeswax, Glycerin",85,Almond Oil,Beeswax,Glycerin
+Report_1466,HPLC System HPLC-9000,"Coconut Oil, Beeswax, Vitamin E",234,Coconut Oil,Beeswax,Vitamin E
+Report_1466,Thermocycler TC-5000,"Jojoba Oil, Cetyl Alcohol, Glycerin",72,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_1471,NMR Spectrometer NMR-500,"Almond Oil, Cetyl Alcohol, Vitamin E",15,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_1471,HPLC System HPLC-9000,"Coconut Oil, Cetyl Alcohol, Vitamin E",487.5,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_1471,Ion Chromatograph IC-2100,"Coconut Oil, Beeswax, Glycerin",78.2,Coconut Oil,Beeswax,Glycerin
+Report_1471,UV-Vis Spectrophotometer UV-2600,"Almond Oil, Gum, Vitamin E",1.8,Almond Oil,Gum,Vitamin E
+Report_1473,UV-Vis Spectrophotometer UV-2600,"Jojoba Oil, Cetyl Alcohol, Vitamin E",2.5,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_1473,Viscometer VS-300,"Almond Oil, Gum, Vitamin E",7543.98,Almond Oil,Gum,Vitamin E
+Report_1473,Viscometer VS-300,"Almond Oil, Beeswax, Vitamin E",7451.81,Almond Oil,Beeswax,Vitamin E
+Report_1479,UV-Vis Spectrophotometer UV-2600,"Coconut Oil, Gum, Glycerin",3.1,Coconut Oil,Gum,Glycerin
+Report_1479,Titrator T-905,"Coconut Oil, Beeswax, Vitamin E",0.005,Coconut Oil,Beeswax,Vitamin E
+Report_1479,Titrator T-905,"Coconut Oil, Beeswax, Glycerin",0.15,Coconut Oil,Beeswax,Glycerin
+Report_1479,Viscometer VS-300,"Coconut Oil, Beeswax, Vitamin E",4742.29,Coconut Oil,Beeswax,Vitamin E
+Report_1479,Viscometer VS-300,"Coconut Oil, Beeswax, Vitamin E",4695.79,Coconut Oil,Beeswax,Vitamin E
+Report_1483,Gas Chromatograph GC-2010,"Almond Oil, Beeswax, Glycerin",250,Almond Oil,Beeswax,Glycerin
+Report_1483,Microplate Reader MRX,"Almond Oil, Cetyl Alcohol, Glycerin",2.5,Almond Oil,Cetyl Alcohol,Glycerin
+Report_1483,Conductivity Meter CM-215,"Coconut Oil, Cetyl Alcohol, Vitamin E",1500,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_1483,Four Ball FB-1000,"Jojoba Oil, Gum, Vitamin E",0.85,Jojoba Oil,Gum,Vitamin E
+Report_1483,X-Ray Diffractometer XRD-6000,"Jojoba Oil, Cetyl Alcohol, Glycerin",90,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_15,Microplate Reader MRX,"Almond Oil, Cetyl Alcohol, Vitamin E",2.5,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_15,Mass Spectrometer MS-20,"Jojoba Oil, Cetyl Alcohol, Vitamin E",950,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_15,NMR Spectrometer NMR-500,"Almond Oil, Beeswax, Glycerin",10,Almond Oil,Beeswax,Glycerin
+Report_15,Viscometer VS-300,"Almond Oil, Gum, Vitamin E",7649.09,Almond Oil,Gum,Vitamin E
+Report_1526,pH Meter PH-700,"Coconut Oil, Gum, Glycerin",7.5,Coconut Oil,Gum,Glycerin
+Report_1526,UV-Vis Spectrophotometer UV-2600,"Jojoba Oil, Cetyl Alcohol, Vitamin E",2.7,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_1526,X-Ray Diffractometer XRD-6000,"Jojoba Oil, Gum, Vitamin E",120,Jojoba Oil,Gum,Vitamin E
+Report_1526,Viscometer VS-300,"Coconut Oil, Gum, Vitamin E",5130.79,Coconut Oil,Gum,Vitamin E
+Report_1526,HPLC System HPLC-9000,"Almond Oil, Gum, Vitamin E",750,Almond Oil,Gum,Vitamin E
+Report_1526,Liquid Chromatograph LC-400,"Coconut Oil, Beeswax, Vitamin E",320,Coconut Oil,Beeswax,Vitamin E
+Report_153,Liquid Chromatograph LC-400,"Jojoba Oil, Gum, Glycerin",50,Jojoba Oil,Gum,Glycerin
+Report_153,Four Ball FB-1000,"Coconut Oil, Cetyl Alcohol, Glycerin",0.6,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_153,PCR Machine PCR-96,"Jojoba Oil, Cetyl Alcohol, Glycerin",30,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_1533,Conductivity Meter CM-215,"Jojoba Oil, Beeswax, Vitamin E",1450,Jojoba Oil,Beeswax,Vitamin E
+Report_1569,Thermocycler TC-5000,"Almond Oil, Cetyl Alcohol, Glycerin",55 °C,Almond Oil,Cetyl Alcohol,Glycerin
+Report_1569,NMR Spectrometer NMR-500,"Almond Oil, Gum, Vitamin E",10.5 ppm,Almond Oil,Gum,Vitamin E
+Report_1569,Viscometer VS-300,"Almond Oil, Beeswax, Vitamin E",7291.28 cP,Almond Oil,Beeswax,Vitamin E
+Report_165,Rheometer R-4500,"Almond Oil, Beeswax, Vitamin E",Viscosity,Almond Oil,Beeswax,Vitamin E
+Report_165,Titrator T-905,"Jojoba Oil, Beeswax, Glycerin",Molarity,Jojoba Oil,Beeswax,Glycerin
+Report_1652,PCR Machine PCR-96,"Coconut Oil, Beeswax, Vitamin E",28,Coconut Oil,Beeswax,Vitamin E
+Report_1664,pH Meter PH-700,"Jojoba Oil, Cetyl Alcohol, Glycerin",7.5,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_1664,Mass Spectrometer MS-20,"Almond Oil, Cetyl Alcohol, Glycerin",534,Almond Oil,Cetyl Alcohol,Glycerin
+Report_1687,FTIR-8400,"Jojoba Oil, Beeswax, Vitamin E",450,Jojoba Oil,Beeswax,Vitamin E
+Report_1687,pH-700,"Almond Oil, Cetyl Alcohol, Glycerin",5.9,Almond Oil,Cetyl Alcohol,Glycerin
+Report_1687,pH-700,"Almond Oil, Beeswax, Vitamin E",6.5,Almond Oil,Beeswax,Vitamin E
+Report_1687,LC-400,"Coconut Oil, Gum, Vitamin E",250,Coconut Oil,Gum,Vitamin E
+Report_1687,IC-2100,"Jojoba Oil, Gum, Glycerin",10,Jojoba Oil,Gum,Glycerin
+Report_169,Viscometer VS-300,"Jojoba Oil, Gum, Vitamin E",2064.04,Jojoba Oil,Gum,Vitamin E
+Report_169,pH Meter PH-700,"Almond Oil, Cetyl Alcohol, Vitamin E",7.2,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_169,Microplate Reader MRX,"Almond Oil, Cetyl Alcohol, Vitamin E",2.5,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_1730,Mass Spectrometer MS-20,"Coconut Oil, Cetyl Alcohol, Glycerin",1500,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_1730,UV-Vis Spectrophotometer UV-2600,"Jojoba Oil, Beeswax, Vitamin E",2.8,Jojoba Oil,Beeswax,Vitamin E
+Report_1730,Spectrometer Alpha-300,"Coconut Oil, Gum, Glycerin",450,Coconut Oil,Gum,Glycerin
+Report_1730,Titrator T-905,"Jojoba Oil, Gum, Vitamin E",0.05,Jojoba Oil,Gum,Vitamin E
+Report_1730,PCR Machine PCR-96,"Almond Oil, Cetyl Alcohol, Vitamin E",30,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_1730,Conductivity Meter CM-215,"Coconut Oil, Cetyl Alcohol, Glycerin",1800,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_1730,Viscometer VS-300,"Almond Oil, Gum, Glycerin",7642.45,Almond Oil,Gum,Glycerin
+Report_1730,Viscometer VS-300,"Jojoba Oil, Beeswax, Vitamin E",3129.4,Jojoba Oil,Beeswax,Vitamin E
+Report_1742,Mass Spectrometer MS-20,"Coconut Oil, Beeswax, Glycerin",150,Coconut Oil,Beeswax,Glycerin
+Report_1742,Viscometer VS-300,"Almond Oil, Gum, Vitamin E",7806.24,Almond Oil,Gum,Vitamin E
+Report_1743,X100,"Coconut Oil, Cetyl Alcohol, Vitamin E",8500 RPM,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_1743,VS-300,"Almond Oil, Gum, Glycerin",7559.24 cP,Almond Oil,Gum,Glycerin
+Report_1743,VS-300,"Coconut Oil, Cetyl Alcohol, Glycerin",5250.06 cP,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_1753,Spectrometer Alpha-300,"Jojoba Oil, Gum, Vitamin E",Wavelength,Jojoba Oil,Gum,Vitamin E
+Report_1753,UV-Vis Spectrophotometer UV-2600,"Coconut Oil, Gum, Glycerin",Absorbance,Coconut Oil,Gum,Glycerin
+Report_1753,Gas Chromatograph GC-2010,"Jojoba Oil, Beeswax, Glycerin",Concentration,Jojoba Oil,Beeswax,Glycerin
+Report_1779,Liquid Chromatograph LC-400,"Jojoba Oil, Beeswax, Vitamin E",ug/mL: 250,Jojoba Oil,Beeswax,Vitamin E
+Report_1779,Conductivity Meter CM-215,"Jojoba Oil, Beeswax, Glycerin",uS/cm: 1800,Jojoba Oil,Beeswax,Glycerin
+Report_1796,Conductivity Meter CM-215,"Coconut Oil, Cetyl Alcohol, Vitamin E",Conductivity: 1250,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_1796,UV-Vis Spectrophotometer UV-2600,"Jojoba Oil, Cetyl Alcohol, Glycerin",Absorbance: 2.7,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_1796,Gas Chromatograph GC-2010,"Jojoba Oil, Beeswax, Glycerin",Concentration: 850,Jojoba Oil,Beeswax,Glycerin
+Report_1796,PCR Machine PCR-96,"Coconut Oil, Gum, Glycerin",Cycle Threshold: 25,Coconut Oil,Gum,Glycerin
+Report_1796,Rheometer R-4500,"Coconut Oil, Cetyl Alcohol, Vitamin E",Viscosity: 450,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_1796,Liquid Chromatograph LC-400,"Jojoba Oil, Beeswax, Glycerin",Concentration: 200,Jojoba Oil,Beeswax,Glycerin
+Report_1796,Thermocycler TC-5000,"Coconut Oil, Gum, Glycerin",Temperature: 37,Coconut Oil,Gum,Glycerin
+Report_1828,Titrator T-905,"Coconut Oil, Beeswax, Vitamin E",5.678,Coconut Oil,Beeswax,Vitamin E
+Report_1828,FTIR Spectrometer FTIR-8400,"Coconut Oil, Cetyl Alcohol, V.E.",1234,Coconut Oil,Cetyl Alcohol,V.E.
+Report_1828,Liquid Chromatograph LC-400,"Jojoba Oil, Gum, Vitamin E",250.3,Jojoba Oil,Gum,Vitamin E
+Report_1829,Spectrometer Alpha-300,"Jojoba Oil, Gum, Glycerin",350,Jojoba Oil,Gum,Glycerin
+Report_1829,Gas Chromatograph GC-2010,"Coconut Oil, Cetyl Alcohol, Glycerin",500,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_1829,Ion Chromatograph IC-2100,"Almond Oil, Beeswax, Vitamin E",10,Almond Oil,Beeswax,Vitamin E
+Report_1829,Rheometer R-4500,"Coconut Oil, Cetyl Alcohol, Glycerin",750,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_1857,Four Ball FB-1000,"Coconut Oil, Gum, Vitamin E",0.500 mm,Coconut Oil,Gum,Vitamin E
+Report_187,Rheometer R-4500,"Almond Oil, Beeswax, Vitamin E",450 Pa-s,Almond Oil,Beeswax,Vitamin E
+Report_1875,Microplate Reader MRX,"Almond Oil, Beeswax, Vitamin E",2.5,Almond Oil,Beeswax,Vitamin E
+Report_1875,Liquid Chromatograph LC-400,"Coconut Oil, Beeswax, Glycerin",320,Coconut Oil,Beeswax,Glycerin
+Report_1875,HPLC System HPLC-9000,"Jojoba Oil, Beeswax, Glycerin",750,Jojoba Oil,Beeswax,Glycerin
+Report_1875,Conductivity Meter CM-215,"Almond Oil, Cetyl Alcohol, Vitamin E",1500,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_1875,Viscometer VS-300,"Jojoba Oil, Cetyl Alcohol, Glycerin",2797.92,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_1875,Titrator T-905,"Jojoba Oil, Beeswax, Vitamin E",5.3,Jojoba Oil,Beeswax,Vitamin E
+Report_1875,Ion Chromatograph IC-2100,"Coconut Oil, Gum, Vitamin E",60,Coconut Oil,Gum,Vitamin E
+Report_1914,Four Ball FB-1000,"Coconut Oil, Beeswax, Glycerin",0.5,Coconut Oil,Beeswax,Glycerin
+Report_1914,FTIR Spectrometer FTIR-8400,"Jojoba Oil, Gum, Glycerin",2500,Jojoba Oil,Gum,Glycerin
+Report_1914,X-Ray Diffractometer XRD-6000,"Almond Oil, Beeswax, Vitamin E",120,Almond Oil,Beeswax,Vitamin E
+Report_192,Mass Spectrometer MS-20,"Jojoba Oil, Cetyl Alcohol, Vitamin E",1235,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_1936,pH Meter PH-700,"Jojoba Oil, Cetyl Alcohol, Glycerin",6.5,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_1936,Four Ball FB-1000,"Coconut Oil, Beeswax, Vitamin E",0.65,Coconut Oil,Beeswax,Vitamin E
+Report_1964,Centrifuge X100,"Coconut Oil, Beeswax, Glycerin",8000,Coconut Oil,Beeswax,Glycerin
+Report_1970,NMR Spectrometer NMR-500,"Almond Oil, Cetyl Alcohol, Vitamin E",15.3,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_1970,Viscometer VS-300,"Almond Oil, Cetyl Alcohol, Vitamin E",7120.18,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_1970,Viscometer VS-300,"Almond Oil, Gum, Glycerin",7790.07,Almond Oil,Gum,Glycerin
+Report_1987,FTIR Spectrometer FTIR-8400,"Jojoba Oil, Cetyl Alcohol, Glycerin",987,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_1994,Viscometer VS-300,"Jojoba Oil, Beeswax, Glycerin",2779.15,Jojoba Oil,Beeswax,Glycerin
+Report_1994,Viscometer VS-300,"Jojoba Oil, Gum, Vitamin E",2011.87,Jojoba Oil,Gum,Vitamin E
+Report_2006,Rheometer R-4500,"Almond Oil, Beeswax, Glycerin",75.3,Almond Oil,Beeswax,Glycerin
+Report_2006,Centrifuge X100,"Coconut Oil, Beeswax, Vitamin E",12000,Coconut Oil,Beeswax,Vitamin E
+Report_2006,Viscometer VS-300,"Coconut Oil, Gum, Vitamin E",5336.99,Coconut Oil,Gum,Vitamin E
+Report_2006,Viscometer VS-300,"Almond Oil, Beeswax, Vitamin E",7195.84,Almond Oil,Beeswax,Vitamin E
+Report_2006,HPLC System HPLC-9000,"Jojoba Oil, Cetyl Alcohol, Vitamin E",500.23,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_2006,Ion Chromatograph IC-2100,"Jojoba Oil, Beeswax, Vitamin E",0.05,Jojoba Oil,Beeswax,Vitamin E
+Report_2006,FTIR Spectrometer FTIR-8400,"Jojoba Oil, Cetyl Alcohol, Vitamin E",1200,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_2006,Mass Spectrometer MS-20,"Almond Oil, Cetyl Alcohol, Glycerin",1500,Almond Oil,Cetyl Alcohol,Glycerin
+Report_205,FTIR-8400,"Almond Oil, Cetyl Alcohol, Glycerin",1300,Almond Oil,Cetyl Alcohol,Glycerin
+Report_205,PCR Machine PCR-96,"Almond Oil, Beeswax, Vitamin E",28,Almond Oil,Beeswax,Vitamin E
+Report_205,Mass Spectrometer MS-20,"Jojoba Oil, Cetyl Alcohol, Glycerin",1200,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_205,Titrator T-905,"Jojoba Oil, Beeswax, Glycerin",0.8,Jojoba Oil,Beeswax,Glycerin
+Report_205,FTIR-8400,"Coconut Oil, Beeswax, Glycerin",3500,Coconut Oil,Beeswax,Glycerin
+Report_2064,Rheometer R-4500,"Jojoba Oil, Beeswax, Glycerin",500,Jojoba Oil,Beeswax,Glycerin
+Report_2064,Viscometer VS-300,"Almond Oil, Beeswax, Vitamin E",7187.33,Almond Oil,Beeswax,Vitamin E
+Report_2064,Mass Spectrometer MS-20,"Jojoba Oil, Cetyl Alcohol, Vitamin E",950,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_2064,NMR Spectrometer NMR-500,"Jojoba Oil, Beeswax, Glycerin",15,Jojoba Oil,Beeswax,Glycerin
+Report_2064,Gas Chromatograph GC-2010,"Jojoba Oil, Cetyl Alcohol, Vitamin E",750,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_2064,Microplate Reader MRX,"Almond Oil, Gum, Glycerin",3.3,Almond Oil,Gum,Glycerin
+Report_2064,Centrifuge X100,"Almond Oil, Beeswax, Glycerin",12500,Almond Oil,Beeswax,Glycerin
+Report_2064,Conductivity Meter CM-215,"Almond Oil, Gum, Glycerin",1500,Almond Oil,Gum,Glycerin
+Report_2073,Viscometer VS-300,"Jojoba Oil, Beeswax, Vitamin E",3028.33,Jojoba Oil,Beeswax,Vitamin E
+Report_2119,Four Ball FB-1000,"Almond Oil, Gum, Vitamin E",0.55,Almond Oil,Gum,Vitamin E
+Report_2153,Mass Spectrometer MS-20,"Almond Oil, Cetyl Alcohol, Vitamin E",850,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_2183,Rheometer R-4500,"Almond Oil, Beeswax, Vitamin E",200 Pa-s,Almond Oil,Beeswax,Vitamin E
+Report_2194,Mass Spectrometer MS-20,"Almond Oil, Cetyl Alcohol, Glycerin",850,Almond Oil,Cetyl Alcohol,Glycerin
+Report_2194,UV-Vis Spectrophotometer UV-2600,"Coconut Oil, Gum, Vitamin E",2.8,Coconut Oil,Gum,Vitamin E
+Report_2194,Thermocycler TC-5000,"Almond Oil, Gum, Glycerin",67,Almond Oil,Gum,Glycerin
+Report_2194,NMR Spectrometer NMR-500,"Almond Oil, Gum, Vitamin E",15,Almond Oil,Gum,Vitamin E
+Report_2194,FTIR Spectrometer FTIR-8400,"Almond Oil, Beeswax, Glycerin",1800,Almond Oil,Beeswax,Glycerin
+Report_2206,Viscometer VS-300,"Jojoba Oil, Gum, Vitamin E",Viscosity,Jojoba Oil,Gum,Vitamin E
+Report_2206,Four Ball FB-1000,"Almond Oil, Beeswax, Glycerin",Wear Resistance,Almond Oil,Beeswax,Glycerin
+Report_2206,Viscometer VS-300,"Jojoba Oil, Beeswax, Glycerin",Viscosity,Jojoba Oil,Beeswax,Glycerin
+Report_2208,UV-Vis Spectrophotometer UV-2600,"Jojoba Oil, Gum, Vitamin E",1.2,Jojoba Oil,Gum,Vitamin E
+Report_2208,Conductivity Meter CM-215,"Jojoba Oil, Beeswax, Vitamin E",500,Jojoba Oil,Beeswax,Vitamin E
+Report_2208,Rheometer R-4500,"Almond Oil, Gum, Vitamin E",250,Almond Oil,Gum,Vitamin E
+Report_2247,Spectrometer Alpha-300,"Almond Oil, Gum, Vitamin E",675,Almond Oil,Gum,Vitamin E
+Report_2247,NMR Spectrometer NMR-500,"Jojoba Oil, Gum, Vitamin E",12,Jojoba Oil,Gum,Vitamin E
+Report_2247,NMR Spectrometer NMR-500,"Coconut Oil, Beeswax, Vitamin E",18,Coconut Oil,Beeswax,Vitamin E
+Report_2247,Mass Spectrometer MS-20,"Coconut Oil, Gum, Glycerin",1502,Coconut Oil,Gum,Glycerin
+Report_2247,Viscometer VS-300,"Almond Oil, Gum, Vitamin E",7688.39,Almond Oil,Gum,Vitamin E
+Report_2263,Gas Chromatograph GC-2010,"Coconut Oil, Beeswax, Glycerin",400,Coconut Oil,Beeswax,Glycerin
+Report_2263,Titrator T-905,"Jojoba Oil, Gum, Vitamin E",0.002,Jojoba Oil,Gum,Vitamin E
+Report_2282,UV-Vis Spectrophotometer UV-2600,"Jojoba Oil, Beeswax, Vitamin E",1.2,Jojoba Oil,Beeswax,Vitamin E
+Report_2282,Spectrometer Alpha-300,"Almond Oil, Gum, Glycerin",540,Almond Oil,Gum,Glycerin
+Report_2282,Viscometer VS-300,"Almond Oil, Gum, Vitamin E",7624.03,Almond Oil,Gum,Vitamin E
+Report_2284,Mass Spectrometer MS-20,"Coconut Oil, Cetyl Alcohol, Glycerin",Mass-to-Charge,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_2284,Spectrometer Alpha-300,"Jojoba Oil, Cetyl Alcohol, Vitamin E",Wavelength,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_2284,Viscometer VS-300,"Jojoba Oil, Cetyl Alcohol, Glycerin",Viscosity,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_2289,HPLC-9000,"Jojoba Oil, Gum, Vitamin E",350,Jojoba Oil,Gum,Vitamin E
+Report_2290,Conductivity Meter CM-215,"Coconut Oil, Cetyl Alcohol, Vitamin E",1543.6,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_2290,Ion Chromatograph IC-2100,"Coconut Oil, Gum, Vitamin E",24.7,Coconut Oil,Gum,Vitamin E
+Report_2290,PCR Machine PCR-96,"Jojoba Oil, Cetyl Alcohol, Glycerin",18.3,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_23,UV-Vis Spectrophotometer UV-2600,"Coconut Oil, Gum, Vitamin E",2.7 Abs,Coconut Oil,Gum,Vitamin E
+Report_23,Four Ball FB-1000,"Almond Oil, Beeswax, Glycerin",0.750 mm,Almond Oil,Beeswax,Glycerin
+Report_23,PCR Machine PCR-96,"Jojoba Oil, Cetyl Alcohol, Glycerin",28 Ct,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_2307,Gas Chromatograph GC-2010,"Coconut Oil, Beeswax, Glycerin",450,Coconut Oil,Beeswax,Glycerin
+Report_2307,Gas Chromatograph GC-2010,"Coconut Oil, Gum, -",500,Coconut Oil,Gum,-
+Report_2307,Liquid Chromatograph LC-400,"Coconut Oil, Beeswax, Vitamin E",120,Coconut Oil,Beeswax,Vitamin E
+Report_2307,FTIR Spectrometer FTIR-8400,"Almond Oil, Gum, Vitamin E",2850,Almond Oil,Gum,Vitamin E
+Report_2307,NMR Spectrometer NMR-500,"Jojoba Oil, Cetyl Alcohol, Glycerin",15,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_2307,Microplate Reader MRX,"Jojoba Oil, Cetyl Alcohol, Vitamin E",2.3,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_2307,Microplate Reader MRX,"Jojoba Oil, Gum, -",1.8,Jojoba Oil,Gum,-
+Report_2307,Centrifuge X100,"Coconut Oil, Cetyl Alcohol, Glycerin",7500,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_2331,Titrator T-905,"Almond Oil, Gum, Vitamin E",2.5,Almond Oil,Gum,Vitamin E
+Report_2331,Conductivity Meter CM-215,"Almond Oil, Cetyl Alcohol, Vitamin E",1500,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_2389,Spectrometer Alpha-300,"Jojoba Oil, Gum, Glycerin",510.5,Jojoba Oil,Gum,Glycerin
+Report_2389,Spectrometer Alpha-300,"Coconut Oil, Cetyl Alcohol, Vitamin E",850.2,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_2389,Titrator T-905,"Almond Oil, Beeswax, Glycerin",0.045,Almond Oil,Beeswax,Glycerin
+Report_2389,Conductivity Meter CM-215,"Jojoba Oil, Gum, Vitamin E",1250,Jojoba Oil,Gum,Vitamin E
+Report_2389,Rheometer R-4500,"Jojoba Oil, Beeswax, Glycerin",320,Jojoba Oil,Beeswax,Glycerin
+Report_2400,Four Ball FB-1000,"Jojoba Oil, Beeswax, Glycerin",Scar Diameter,Jojoba Oil,Beeswax,Glycerin
+Report_2400,Titrator T-905,"Almond Oil, Gum, Glycerin",Concentration,Almond Oil,Gum,Glycerin
+Report_2400,Conductivity Meter CM-215,"Coconut Oil, Gum, blank",Conductivity,Coconut Oil,Gum,blank
+Report_2400,Gas Chromatograph GC-2010,"Coconut Oil, Vitamin E, blank",Compound Detection,Coconut Oil,Vitamin E,blank
+Report_2400,NMR Spectrometer NMR-500,"Coconut Oil, Cetyl Alcohol, Glycerin",Chemical Shift,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_2400,pH Meter PH-700,"Almond Oil, Vitamin E, blank",pH Level,Almond Oil,Vitamin E,blank
+Report_2425,UV-2600,"Coconut Oil, Beeswax, Glycerin",2.25 Abs,Coconut Oil,Beeswax,Glycerin
+Report_2425,FTIR-8400,"Coconut Oil, Cetyl Alcohol, Vitamin E",3000 1/cm,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_2452,Four Ball FB-1000,"Almond Oil, Gum, Glycerin",0.8,Almond Oil,Gum,Glycerin
+Report_2452,Rheometer R-4500,"Coconut Oil, Beeswax, Vitamin E",300,Coconut Oil,Beeswax,Vitamin E
+Report_2452,Gas Chromatograph GC-2010,"Jojoba Oil, Beeswax, Vit E",850,Jojoba Oil,Beeswax,Vit E
+Report_2468,NMR-500,"Jojoba Oil, Beeswax, Glycerin",15,Jojoba Oil,Beeswax,Glycerin
+Report_2468,Alpha-300,"Coconut Oil, Beeswax, Vitamin E",650,Coconut Oil,Beeswax,Vitamin E
+Report_2476,Titrator T-905,"Coconut Oil, Gum, Vitamin E",7.655,Coconut Oil,Gum,Vitamin E
+Report_2476,Conductivity Meter CM-215,"Jojoba Oil, Cetyl Alcohol, Glycerin",1500,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_2476,UV-Vis Spectrophotometer UV-2600,"Coconut Oil, Cetyl Alcohol, Vitamin E",2.450,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_2483,Spectrometer Alpha-300,"Almond Oil, Beeswax, Vitamin E",850,Almond Oil,Beeswax,Vitamin E
+Report_2483,X-Ray Diffractometer XRD-6000,"Coconut Oil, Gum, Vitamin E",120,Coconut Oil,Gum,Vitamin E
+Report_2483,Mass Spectrometer MS-20,"Coconut Oil, Beeswax, Vitamin E",1500,Coconut Oil,Beeswax,Vitamin E
+Report_2483,Centrifuge X100,"Almond Oil, Cetyl Alcohol, Glycerin",8500,Almond Oil,Cetyl Alcohol,Glycerin
+Report_2483,Microplate Reader MRX,"Almond Oil, Beeswax, Vitamin E",1.2,Almond Oil,Beeswax,Vitamin E
+Report_2483,pH Meter PH-700,"Coconut Oil, Gum, Vitamin E",5,Coconut Oil,Gum,Vitamin E
+Report_2483,FTIR Spectrometer FTIR-8400,"Coconut Oil, Beeswax, Vitamin E",3500,Coconut Oil,Beeswax,Vitamin E
+Report_2488,Mass Spectrometer MS-20,"Jojoba Oil, Beeswax, Vitamin E",m/z,Jojoba Oil,Beeswax,Vitamin E
+Report_2488,Titrator T-905,"Jojoba Oil, Beeswax, Vitamin E",Concentration,Jojoba Oil,Beeswax,Vitamin E
+Report_2488,Viscometer VS-300,"Almond Oil, Gum, Vitamin E",Viscosity,Almond Oil,Gum,Vitamin E
+Report_2494,Rheometer R-4500,"Coconut Oil, Cetyl Alcohol, Glycerin",350,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_2494,Gas Chromatograph GC-2010,"Coconut Oil, Cetyl Alcohol, Vitamin E",500,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_2494,Mass Spectrometer MS-20,"Almond Oil, Beeswax, Vitamin E",1200,Almond Oil,Beeswax,Vitamin E
+Report_2496,TC-5000,"Almond Oil, Cetyl Alcohol, Vitamin E",37,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_2496,PCR-96,"Coconut Oil, Beeswax, Glycerin",25.4,Coconut Oil,Beeswax,Glycerin
+Report_2496,UV-2600,"Coconut Oil, Cetyl Alcohol, Glycerin",2.75,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_254,Ion Chromatograph IC-2100,"Almond Oil, Beeswax, Glycerin",25 mM,Almond Oil,Beeswax,Glycerin
+Report_255,Microplate Reader MRX,"Almond Oil, Cetyl Alcohol, Glycerin",3.2,Almond Oil,Cetyl Alcohol,Glycerin
+Report_255,HPLC System HPLC-9000,"Almond Oil, Beeswax, Vitamin E",450.5,Almond Oil,Beeswax,Vitamin E
+Report_255,pH Meter PH-700,"Coconut Oil, Gum, Glycerin",6.8,Coconut Oil,Gum,Glycerin
+Report_255,Viscometer VS-300,"Almond Oil, Beeswax, Vitamin E",7070.48,Almond Oil,Beeswax,Vitamin E
+Report_255,Viscometer VS-300,"Almond Oil, Cetyl Alcohol, Vitamin E",7236.41,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_3,Liquid Chromatograph LC-400,"Almond Oil, Cetyl Alcohol, Vitamin E",250.35,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_3,FTIR Spectrometer FTIR-8400,"Jojoba Oil, Beeswax, Vitamin E",1050.5,Jojoba Oil,Beeswax,Vitamin E
+Report_3,Spectrometer Alpha-300,"Almond Oil, Beeswax, Glycerin",350.2,Almond Oil,Beeswax,Glycerin
+Report_3,Ion Chromatograph IC-2100,"Jojoba Oil, Beeswax, Glycerin",25.8,Jojoba Oil,Beeswax,Glycerin
+Report_3,Four Ball FB-1000,"Almond Oil, Beeswax, Glycerin",0.45,Almond Oil,Beeswax,Glycerin
+Report_3,Viscometer VS-300,"Jojoba Oil, Cetyl Alcohol, Glycerin",2744.95,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_301,LC-400,"Jojoba Oil, Cetyl Alcohol, Glycerin",250 ug/mL,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_304,FTIR Spectrometer FTIR-8400,"Coconut, Cetyl Alcohol, Vit E",2800,Coconut,Cetyl Alcohol,Vit E
+Report_304,Ion Chromatograph IC-2100,"Jojoba, Beeswax, Glycerin",75,Jojoba,Beeswax,Glycerin
+Report_333,Conductivity Meter CM-215,"Almond Oil, Cetyl Alcohol, Glycerin",980,Almond Oil,Cetyl Alcohol,Glycerin
+Report_333,Four Ball FB-1000,"Almond Oil, Cetyl Alcohol, Glycerin",0.500,Almond Oil,Cetyl Alcohol,Glycerin
+Report_333,Thermocycler TC-5000,"Almond Oil, Gum, Glycerin",52,Almond Oil,Gum,Glycerin
+Report_333,Viscometer VS-300,"Jojoba Oil, Gum, Glycerin",1822.54,Jojoba Oil,Gum,Glycerin
+Report_333,Viscometer VS-300,"Coconut Oil, Gum, Vitamin E",5117.26,Coconut Oil,Gum,Vitamin E
+Report_351,Conductivity Meter CM-215,"Jojoba Oil, Cetyl Alcohol, Vitamin E",820,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_351,Gas Chromatograph GC-2010,"Jojoba Oil, Gum, Vitamin E",765,Jojoba Oil,Gum,Vitamin E
+Report_351,PCR Machine PCR-96,"Almond Oil, Cetyl Alcohol, Vitamin E",30,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_351,Viscometer VS-300,"Jojoba Oil, Gum, Vitamin E",1864.54,Jojoba Oil,Gum,Vitamin E
+Report_351,Viscometer VS-300,"Coconut Oil, Gum, Vitamin E",5181.57,Coconut Oil,Gum,Vitamin E
+Report_354,Titrator T-905,"Almond Oil, Gum, Vitamin E",3.212,Almond Oil,Gum,Vitamin E
+Report_354,pH Meter PH-700,"Almond Oil, Beeswax, Glycerin",5.6,Almond Oil,Beeswax,Glycerin
+Report_354,Microplate Reader MRX,"Almond Oil, Beeswax, Vitamin E",1.9,Almond Oil,Beeswax,Vitamin E
+Report_354,HPLC System HPLC-9000,"Jojoba Oil, Beeswax, Vitamin E",345.67,Jojoba Oil,Beeswax,Vitamin E
+Report_354,PCR Machine PCR-96,"Jojoba Oil, Gum, Glycerin",15.2,Jojoba Oil,Gum,Glycerin
+Report_354,Viscometer VS-300,"Jojoba Oil, Beeswax, Glycerin",2945.91,Jojoba Oil,Beeswax,Glycerin
+Report_354,Viscometer VS-300,"Coconut Oil, Cetyl Alcohol, Vitamin E",4911.39,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_378,UV-Vis Spectrophotometer UV-2600,"Coconut Oil, Beeswax, Vitamin E",1.8,Coconut Oil,Beeswax,Vitamin E
+Report_378,Rheometer R-4500,"Almond Oil, Gum, Vitamin E",450,Almond Oil,Gum,Vitamin E
+Report_378,Microplate Reader MRX,"Coconut Oil, Beeswax, Vitamin E",2.1,Coconut Oil,Beeswax,Vitamin E
+Report_378,PCR Machine PCR-96,"Almond Oil, Gum, Vitamin E",25,Almond Oil,Gum,Vitamin E
+Report_38,HPLC System HPLC-9000,"Coconut Oil, Cetyl Alcohol, Glycerin",12.4,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_38,Liquid Chromatograph LC-400,"Coconut Oil, Cetyl Alcohol, Vitamin E",73.5,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_38,Spectrometer Alpha-300,"Coconut Oil, Gum, Glycerin",210.6,Coconut Oil,Gum,Glycerin
+Report_38,pH Meter PH-700,"Jojoba Oil, Beeswax, Vitamin E",5.8,Jojoba Oil,Beeswax,Vitamin E
+Report_38,Rheometer R-4500,"Coconut Oil, Cetyl Alcohol, Glycerin",320.2,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_38,Conductivity Meter CM-215,"Coconut Oil, Gum, Glycerin",1450,Coconut Oil,Gum,Glycerin
+Report_380,Thermocycler TC-5000,"Coconut Oil, Gum, Vitamin E",65,Coconut Oil,Gum,Vitamin E
+Report_380,pH Meter PH-700,"Jojoba Oil, Cetyl Alcohol, Vitamin E",7.2,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_380,UV-Vis Spectrophotometer UV-2600,"Coconut Oil, Gum, Glycerin",2.8,Coconut Oil,Gum,Glycerin
+Report_380,FTIR,"Coconut Oil, Gum, Vitamin E",1800,Coconut Oil,Gum,Vitamin E
+Report_380,X-Ray Diffractometer XRD-6000,"Jojoba Oil, Cetyl Alcohol, Vitamin E",95,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_4,GC-2010,"Almond Oil, Beeswax, Vitamin E",982.5,Almond Oil,Beeswax,Vitamin E
+Report_4,R-4500,"Almond Oil, Gum, Vitamin E",550.3,Almond Oil,Gum,Vitamin E
+Report_4,VS-300,"Jojoba Oil, Gum, Glycerin",1897.86,Jojoba Oil,Gum,Glycerin
+Report_4,VS-300,"Coconut Oil, Cetyl Alcohol, Glycerin",5074.57,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_4,FB-1000,"""Almond Oil, Cetyl Alcohol, Vitamin E""",0.678,"""Almond Oil",Cetyl Alcohol,"Vitamin E"""
+Report_413,Spectrometer Alpha-300,"Almond Oil, Cetyl Alcohol, Glycerin",450.5,Almond Oil,Cetyl Alcohol,Glycerin
+Report_413,NMR Spectrometer NMR-500,"Almond Oil, Beeswax, Glycerin",5.8,Almond Oil,Beeswax,Glycerin
+Report_422,UV-Vis Spectrophotometer UV-2600,"Jojoba Oil, Gum, Vitamin E",1.2,Jojoba Oil,Gum,Vitamin E
+Report_427,pH Meter PH-700,"Almond Oil, Cetyl Alcohol, Vitamin E",7.2,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_427,Rheometer R-4500,"Coconut Oil, Cetyl Alcohol, Glycerin",250,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_427,PCR Machine PCR-96,"Almond Oil, Beeswax, Glycerin",28,Almond Oil,Beeswax,Glycerin
+Report_427,Mass Spectrometer MS-20,"Almond Oil, Beeswax, Vitamin E",1500,Almond Oil,Beeswax,Vitamin E
+Report_427,Spectrometer Alpha-300,"Jojoba Oil, Cetyl Alcohol, Glycerin",450,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_427,Viscometer VS-300,"Jojoba Oil, Beeswax, Vitamin E",3138.2,Jojoba Oil,Beeswax,Vitamin E
+Report_427,Viscometer VS-300,"Almond Oil, Beeswax, Glycerin",7378.83,Almond Oil,Beeswax,Glycerin
+Report_457,Centrifuge X100,"Jojoba Oil, Cetyl Alcohol, Glycerin",8000,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_457,Four Ball FB-1000,"Almond Oil, Cetyl Alcohol, Vitamin E",0.75,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_458,PCR Machine PCR-96,"Almond Oil, Gum, Vitamin E",15.2,Almond Oil,Gum,Vitamin E
+Report_458,FTIR Spectrometer FTIR-8400,"Coconut Oil, Cetyl Alcohol, Vitamin E",1450,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_507,Centrifuge X100,"Coconut Oil, Cetyl Alcohol, Glycerin",12000,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_507,Mass Spectrometer MS-20,"Almond Oil, Gum, Glycerin",150,Almond Oil,Gum,Glycerin
+Report_507,Mass Spectrometer MS-20,"Coconut Oil, Gum, Glycerin",350,Coconut Oil,Gum,Glycerin
+Report_507,Rheometer R-4500,"Almond Oil, Cetyl Alcohol, Vitamin E",500,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_507,HPLC System HPLC-9000,"Coconut Oil, Cetyl Alcohol, Glycerin",0.8,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_507,NMR Spectrometer NMR-500,"Almond Oil, Gum, Glycerin",5,Almond Oil,Gum,Glycerin
+Report_507,NMR Spectrometer NMR-500,"Coconut Oil, Gum, Glycerin",8,Coconut Oil,Gum,Glycerin
+Report_507,Four Ball FB-1000,"Almond Oil, Cetyl Alcohol, Vitamin E",0.75,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_507,Viscometer VS-300,"Jojoba Oil, Cetyl Alcohol, Glycerin",2705.57,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_508,Gas Chromatograph GC-2010,"Almond Oil, Cetyl Alcohol, Glycerin",25.6,Almond Oil,Cetyl Alcohol,Glycerin
+Report_508,Gas Chromatograph GC-2010,"Jojoba Oil, Gum, Glycerin",300.8,Jojoba Oil,Gum,Glycerin
+Report_508,Four Ball FB-1000,"Jojoba Oil, Beeswax, Vitamin E",0.75,Jojoba Oil,Beeswax,Vitamin E
+Report_508,HPLC System HPLC-9000,"Coconut Oil, Gum, Glycerin",850.3,Coconut Oil,Gum,Glycerin
+Report_533,Ion Chromatograph IC-2100,"Almond Oil, Cetyl Alcohol, Glycerin",50,Almond Oil,Cetyl Alcohol,Glycerin
+Report_533,pH Meter PH-700,"Coconut Oil, Gum, Glycerin",7.5,Coconut Oil,Gum,Glycerin
+Report_533,Conductivity Meter CM-215,"Jojoba Oil, Beeswax, Vitamin E",1200,Jojoba Oil,Beeswax,Vitamin E
+Report_54,X-Ray Diffractometer XRD-6000,"Almond Oil, Gum, Vitamin E",145,Almond Oil,Gum,Vitamin E
+Report_54,Thermocycler TC-5000,"Almond Oil, Beeswax, Vitamin E",37,Almond Oil,Beeswax,Vitamin E
+Report_54,Conductivity Meter CM-215,"Coconut Oil, Beeswax, Glycerin",1500,Coconut Oil,Beeswax,Glycerin
+Report_566,Viscometer VS-300,"Coconut Oil, Gum, Vitamin E",5246.93,Coconut Oil,Gum,Vitamin E
+Report_57,LC-400-02,"Jojoba Oil, Cetyl Alcohol, Vitamin E",210.75 ug/mL,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_57,LC-400-03,"Jojoba Oil, Gum, Glycerin",300.9 ug/mL,Jojoba Oil,Gum,Glycerin
+Report_57,UV-2600-01,"Jojoba Oil, Gum, Glycerin",2.8 Abs,Jojoba Oil,Gum,Glycerin
+Report_57,UV-2600-03,"Coconut Oil, Beeswax, Glycerin",1.2 Abs,Coconut Oil,Beeswax,Glycerin
+Report_57,T-905-01,"Jojoba Oil, Cetyl Alcohol, Vitamin E",0.007 M,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_57,T-905-02,"Almond Oil, Gum, Vitamin E",0.009 M,Almond Oil,Gum,Vitamin E
+Report_57,MS-20-01,"Coconut Oil, Beeswax, Glycerin",845 m/z,Coconut Oil,Beeswax,Glycerin
+Report_57,MS-20-03,"Jojoba Oil, Gum, Glycerin",1050 m/z,Jojoba Oil,Gum,Glycerin
+Report_583,UV-Vis Spectrophotometer UV-2600,"Coconut Oil, Beeswax, Glycerin",1.8,Coconut Oil,Beeswax,Glycerin
+Report_583,Microplate Reader MRX,"Coconut Oil, Cetyl Alcohol, Vitamin E",2.4,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_583,Conductivity Meter CM-215,"Coconut Oil, Beeswax, Vitamin E",1250,Coconut Oil,Beeswax,Vitamin E
+Report_583,PCR Machine PCR-96,"Almond Oil, Cetyl Alcohol, Vitamin E",20,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_625,X-Ray Diffractometer XRD-6000,"Coconut Oil, Gum, Vitamin E",145,Coconut Oil,Gum,Vitamin E
+Report_625,X-Ray Diffractometer XRD-6000,"Coconut Oil, Beeswax, Glycerin",165,Coconut Oil,Beeswax,Glycerin
+Report_625,Rheometer R-4500,"Jojoba Oil, Cetyl Alcohol, Vitamin E",350,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_625,Viscometer VS-300,"Jojoba Oil, Gum, Vitamin E",2027.34,Jojoba Oil,Gum,Vitamin E
+Report_625,Four Ball FB-1000,"Almond Oil, Cetyl Alcohol, Glycerin",0.75,Almond Oil,Cetyl Alcohol,Glycerin
+Report_63,Titrator T-905,"Coconut Oil, Beeswax, Glycerin",Concentration,Coconut Oil,Beeswax,Glycerin
+Report_63,Microplate Reader MRX,"Almond Oil, Gum, Glycerin",Optical Density,Almond Oil,Gum,Glycerin
+Report_63,FTIR Spectrometer FTIR-8400,"Almond Oil, Beeswax, Glycerin",Wavenumber,Almond Oil,Beeswax,Glycerin
+Report_646,Spectrometer Alpha-300,"Coconut Oil, Beeswax, Glycerin",650 nm,Coconut Oil,Beeswax,Glycerin
+Report_646,Gas Chromatograph GC-2010,"Almond Oil, Beeswax, Vitamin E",200 ppm,Almond Oil,Beeswax,Vitamin E
+Report_646,Rheometer R-4500,"Jojoba Oil, Cetyl Alcohol, Vitamin E",500 Pa-s,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_646,Viscometer VS-300,"Coconut Oil, Cetyl Alcohol, Glycerin",5132.32 cP,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_646,Viscometer VS-300,"Jojoba Oil, Beeswax, Glycerin",3019.16 cP,Jojoba Oil,Beeswax,Glycerin
+Report_661,Rheometer R-4500,"Coconut Oil, Cetyl Alcohol, Vitamin E",853.4,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_661,Microplate Reader MRX,"Jojoba Oil, Cetyl Alcohol, Glycerin",2.3,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_67,Ion Chromatograph IC-2100,"Almond Oil, Beeswax, Vitamin E",25.678,Almond Oil,Beeswax,Vitamin E
+Report_67,Gas Chromatograph GC-2010,"Almond Oil, Beeswax, Glycerin",89.5,Almond Oil,Beeswax,Glycerin
+Report_67,PCR Machine PCR-96,"Coconut Oil, Cetyl Alcohol, Glycerin",35.2,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_67,Spectrometer Alpha-300,"Jojoba Oil, Cetyl Alcohol, Glycerin",650.45,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_67,pH Meter PH-700,"Coconut Oil, Beeswax, Glycerin",7.2,Coconut Oil,Beeswax,Glycerin
+Report_67,Microplate Reader MRX,"Coconut Oil, Gum, Vitamin E",3.56,Coconut Oil,Gum,Vitamin E
+Report_67,X-Ray Diffractometer XRD-6000,"Almond Oil, Beeswax, Vitamin E",50,Almond Oil,Beeswax,Vitamin E
+Report_67,HPLC System HPLC-9000,"Coconut Oil, Cetyl Alcohol, Glycerin",650.25,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_67,Viscometer VS-300,"""Almond Oil"", ""Gum"", ""Vitamin E""",7737.43,"""Almond Oil""","""Gum""","""Vitamin E"""
+Report_712,CM-215,"Jojoba Oil, Gum, Glycerin",1500,Jojoba Oil,Gum,Glycerin
+Report_712,PCR-96,"Coconut Oil, Gum, Vitamin E",25,Coconut Oil,Gum,Vitamin E
+Report_712,VS-300,"Coconut Oil, Cetyl Alcohol, Glycerin",5137.78,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_758,R-4500,"Jojoba Oil, Cetyl Alcohol, Vitamin E",2.5 Pa-s,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_758,VS-300,"Coconut Oil, Cetyl Alcohol, Glycerin",4977.89 cP,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_758,XRD-6000,"Almond Oil, Cetyl Alcohol, Glycerin",160°C,Almond Oil,Cetyl Alcohol,Glycerin
+Report_758,X100,"Coconut Oil, Gum, Vitamin E",12000 RPM,Coconut Oil,Gum,Vitamin E
+Report_762,UV-Vis Spectrophotometer UV-2600,"Coconut Oil, Gum, Glycerin",3.2,Coconut Oil,Gum,Glycerin
+Report_762,UV-Vis Spectrophotometer UV-2600,"Coconut Oil, Beeswax, Vitamin E",2.8,Coconut Oil,Beeswax,Vitamin E
+Report_762,Centrifuge X100,"Almond Oil, Cetyl Alcohol, Glycerin",14000,Almond Oil,Cetyl Alcohol,Glycerin
+Report_762,Conductivity Meter CM-215,"Jojoba Oil, Cetyl Alcohol, Vitamin E",1500,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_762,FTIR Spectrometer FTIR-8400,"Almond Oil, Beeswax, Glycerin",3500,Almond Oil,Beeswax,Glycerin
+Report_768,NMR Spectrometer NMR-500,"Almond Oil, Beeswax, Vitamin E",10.5,Almond Oil,Beeswax,Vitamin E
+Report_778,Conductivity Meter CM-215,"Almond Oil, Gum, Vitamin E",1340,Almond Oil,Gum,Vitamin E
+Report_778,Viscometer VS-300,"Almond Oil, Gum, Glycerin",7720.2,Almond Oil,Gum,Glycerin
+Report_778,Centrifuge X100,"Coconut Oil, Cetyl Alcohol, Glycerin",8000,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_778,Thermocycler TC-5000,"Jojoba Oil, Gum, Vitamin E",37,Jojoba Oil,Gum,Vitamin E
+Report_778,Mass Spectrometer MS-20,"Jojoba Oil, Gum, Glycerin",650,Jojoba Oil,Gum,Glycerin
+Report_778,HPLC System HPLC-9000,"Almond Oil, Beeswax, Vitamin E",110,Almond Oil,Beeswax,Vitamin E
+Report_778,PCR Machine PCR-96,"Almond Oil, Gum, Vitamin E",25,Almond Oil,Gum,Vitamin E
+Report_780,Mass Spectrometer MS-20,"Coconut Oil, Gum, Vit E",1750,Coconut Oil,Gum,Vit E
+Report_826,HPLC,"Almond Oil, Cetyl Alcohol, Vitamin E",350.75,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_826,Liquid Chromatograph LC-400,"Almond Oil, Cetyl Alcohol, Vitamin E",250.4,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_826,FTIR,"Almond Oil, Cetyl Alcohol, Glycerin",1802,Almond Oil,Cetyl Alcohol,Glycerin
+Report_826,Viscometer VS-300,"Coconut Oil, Gum, Vitamin E",5094.54,Coconut Oil,Gum,Vitamin E
+Report_826,Viscometer VS-300,"Coconut Oil, Cetyl Alcohol, Glycerin",5212.75,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_827,Mass Spectrometer MS-20,"Coconut Oil, Gum, Glycerin",850,Coconut Oil,Gum,Glycerin
+Report_84,GC-2010,"Coconut Oil, Cetyl Alcohol, Vitamin E",550,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_84,MS-20,"Jojoba Oil, Cetyl Alcohol, Glycerin",1250,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_84,IC-2100,"Jojoba Oil, Gum, Glycerin",75,Jojoba Oil,Gum,Glycerin
+Report_84,NMR-500,"Coconut Oil, Cetyl Alcohol, Vitamin E",10,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_84,VS-300,"Coconut Oil, Cetyl Alcohol, Vitamin E",5014.46,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_849,Conductivity Meter CM-215,"Almond Oil, Gum, Vitamin E",750,Almond Oil,Gum,Vitamin E
+Report_853,Centrifuge X100,"Almond Oil, Beeswax, Glycerin",12000,Almond Oil,Beeswax,Glycerin
+Report_853,PCR Machine PCR-96,"Jojoba Oil, Cetyl Alcohol, Vitamin E",25,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_853,Conductivity Meter CM-215,"Jojoba Oil, Gum, Vitamin E",800,Jojoba Oil,Gum,Vitamin E
+Report_853,Gas Chromatograph GC-2010,"Almond Oil, Beeswax, Glycerin",250,Almond Oil,Beeswax,Glycerin
+Report_853,Mass Spectrometer MS-20,"Jojoba Oil, Cetyl Alcohol, Vitamin E",650,Jojoba Oil,Cetyl Alcohol,Vitamin E
+Report_853,Microplate Reader MRX,"Jojoba Oil, Gum, Vitamin E",2.5,Jojoba Oil,Gum,Vitamin E
+Report_853,Viscometer VS-300,"Jojoba Oil, Gum, Glycerin",1830.94,Jojoba Oil,Gum,Glycerin
+Report_891,NMR-500,"Jojoba Oil, Cetyl Alcohol, Glycerin",15,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_891,R-4500,"Coconut Oil, Cetyl Alcohol, Glycerin",500,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_891,T-905,"Almond Oil, Cetyl Alcohol, Glycerin",0.005,Almond Oil,Cetyl Alcohol,Glycerin
+Report_908,FB-1000,"Coconut Oil, Cetyl Alcohol, Vitamin E",0.425,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_908,TC-5000,"Coconut Oil, Beeswax, Glycerin",37,Coconut Oil,Beeswax,Glycerin
+Report_908,MRX,"Almond Oil, Beeswax, Vitamin E",2.5,Almond Oil,Beeswax,Vitamin E
+Report_908,T-905,"Jojoba Oil, Gum, Glycerin",0.007,Jojoba Oil,Gum,Glycerin
+Report_948,Conductivity Meter CM-215,"Coconut Oil, Cetyl Alcohol, Glycerin",1800,Coconut Oil,Cetyl Alcohol,Glycerin
+Report_948,Viscometer VS-300,"Almond Oil, Gum, Vitamin E",7709.11,Almond Oil,Gum,Vitamin E
+Report_948,Viscometer VS-300,"Coconut Oil, Beeswax, Vitamin E",4788.7,Coconut Oil,Beeswax,Vitamin E
+Report_949,Liquid Chromatograph LC-400,"Jojoba Oil, Beeswax, Vitamin E",250,Jojoba Oil,Beeswax,Vitamin E
+Report_949,pH Meter PH-700,"Coconut Oil, Beeswax, Vitamin E",6.75,Coconut Oil,Beeswax,Vitamin E
+Report_949,Ion Chromatograph IC-2100,"Coconut Oil, Cetyl Alcohol, Vitamin E",55,Coconut Oil,Cetyl Alcohol,Vitamin E
+Report_949,Gas Chromatograph GC-2010,"Jojoba Oil, Beeswax, Glycerin",750,Jojoba Oil,Beeswax,Glycerin
+Report_949,Titrator T-905,"Almond Oil, Gum, Glycerin",0.005,Almond Oil,Gum,Glycerin
+Report_949,Viscometer VS-300,"Almond Oil, Cetyl Alcohol, Vitamin E",7386.29,Almond Oil,Cetyl Alcohol,Vitamin E
+Report_949,Viscometer VS-300,"Almond Oil, Gum, Vitamin E",7727.96,Almond Oil,Gum,Vitamin E
+Report_978,PCR-96,"Jojoba Oil, Beeswax, Vitamin E",26.5,Jojoba Oil,Beeswax,Vitamin E
+Report_978,GC-2010,"Coconut Oil, Beeswax, Glycerin",150.3,Coconut Oil,Beeswax,Glycerin
+Report_978,FB-1000,"Coconut Oil, Gum, Glycerin",0.735,Coconut Oil,Gum,Glycerin
+Report_978,NMR-500,"Jojoba Oil, Cetyl Alcohol, Glycerin",10.2,Jojoba Oil,Cetyl Alcohol,Glycerin
+Report_978,HPLC-9000,"Almond Oil, Gum, Glycerin",450.88,Almond Oil,Gum,Glycerin
+Report_978,MS-20,"Jojoba Oil, Beeswax, Vitamin E",1200,Jojoba Oil,Beeswax,Vitamin E
+Report_978,VS-300,"Jojoba Oil, Gum, Glycerin",1875.54,Jojoba Oil,Gum,Glycerin
+Report_978,VS-300,"Jojoba Oil, Gum, Glycerin",1825.3,Jojoba Oil,Gum,Glycerin
+Report_978,Alpha-300,"Coconut Oil, Beeswax, Glycerin",540,Coconut Oil,Beeswax,Glycerin
+Report_993,PCR-96,"Jojoba Oil, Gum, Vitamin E",28,Jojoba Oil,Gum,Vitamin E
+Report_993,MS-20,"Almond Oil, Cetyl Alcohol, Glycerin",1520,Almond Oil,Cetyl Alcohol,Glycerin
+Report_993,NMR-500,"Coconut Oil, Gum, Glycerin",19,Coconut Oil,Gum,Glycerin
+Report_993,X100,"Almond Oil, Beeswax, Vitamin E",8000,Almond Oil,Beeswax,Vitamin E
+Report_993,Viscometer VS-300,"Coconut Oil, Beeswax, Vitamin E",4792.39,Coconut Oil,Beeswax,Vitamin E

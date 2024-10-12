@@ -1,0 +1,1266 @@
+report_id,instrument,product1_id,product2_id,product3_id,result
+Report_1000,Thermocycler TC-5000,6,3,5,59
+Report_1000,Titrator T-905,6,1,4,0.008
+Report_1000,NMR Spectrometer NMR-500,6,3,5,15.2
+Report_1000,Microplate Reader MRX,7,5,,2.3
+Report_1000,Mass Spectrometer MS-20,7,4,,345
+Report_1000,Spectrometer Alpha-300,7,2,5,530
+Report_1000,pH Meter PH-700,7,2,4,6.5
+Report_1000,Ion Chromatograph IC-2100,7,5,,0.056
+Report_1000,Gas Chromatograph GC-2010,7,4,,200
+Report_1000,Liquid Chromatograph LC-400,7,2,5,320
+Report_1000,Viscometer VS-300,7,3,,7289.68
+Report_1003,Centrifuge X100,7,3,,10500
+Report_1003,Rheometer R-4500,7,,,95.3
+Report_1003,Centrifuge X100,,,,Data
+Report_1003,Centrifuge X100,0,3,4,12000
+Report_1003,UV-Vis Spectrophotometer UV-2600,6,2,4,1.5
+Report_1003,Microplate Reader MRX,6,2,5,3.2
+Report_1003,UV-Vis Spectrophotometer UV-2600,6,1,,2.3
+Report_1003,Microplate Reader MRX,7,2,5,1.8
+Report_1003,HPLC System HPLC-9000,7,1,4,200.5
+Report_1003,pH Meter PH-700,6,2,,7
+Report_1003,Centrifuge X100,,,,
+Report_1003,Viscometer VS-300,6,1,4,4889.12
+Report_1003,Viscometer VS-300,6,1,,4789.59
+Report_1003,Viscometer VS-300,6,1,4,4695.28
+Report_1003,Centrifuge X100,,,,Sum
+Report_1070,Mass Spectrometer MS-20,,,,1350
+Report_1070,Titrator T-905,,,,8.45
+Report_1070,Centrifuge X100,,,,12000
+Report_1070,pH Meter PH-700,,,,6.7
+Report_1070,Thermocycler TC-5000,,,,72
+Report_1070,Microplate Reader MRX,,,,2.3
+Report_1070,X-Ray Diffractometer XRD-6000,,,,60
+Report_1070,PCR Machine PCR-96,,,,25
+Report_1070,Conductivity Meter CM-215,,,,1500
+Report_1081,Microplate Reader MRX,0,4,,2.5
+Report_1081,Spectrometer Alpha-300,6,3,5,500
+Report_1081,UV-Vis Spectrophotometer UV-2600,0,,,1.7
+Report_1081,pH Meter PH-700,7,3,,6.8
+Report_1081,Viscometer VS-300,6,3,4,4972.92
+Report_1081,Viscometer VS-300,7,1,5,7118.4
+Report_1081,Viscometer VS-300,,,,7658.11
+Report_1083,Gas Chromatograph GC-2010,6,3,,250 ppm
+Report_1083,UV-Vis Spectrophotometer UV-2600,7,2,4,2.5
+Report_1083,Ion Chromatograph IC-2100,6,3,4,25
+Report_1083,Centrifuge X100,7,1,5,12000
+Report_1083,Four Ball FB-1000,0,3,4,0.7
+Report_1087,Rheometer R-4500,6,,,300
+Report_1087,Thermocycler TC-5000,6,3,4,60
+Report_1087,Liquid Chromatograph LC-400,0,2,4,200
+Report_1087,Four Ball FB-1000,0,3,4,0.6
+Report_1087,NMR Spectrometer NMR-500,6,2,5,15
+Report_1087,UV-Vis Spectrophotometer UV-2600,0,5,,2.5
+Report_1087,Conductivity Meter CM-215,6,1,,1500
+Report_1087,Centrifuge X100,0,2,,12000
+Report_1087,Microplate Reader MRX,7,3,,3.2
+Report_1087,Spectrometer Alpha-300,6,3,,600
+Report_1087,Viscometer VS-300,0,2,5,1983.91
+Report_1088,PCR Machine PCR-96,7,3,,22
+Report_1088,Ion Chromatograph IC-2100,6,1,4,75.2
+Report_1088,Thermocycler TC-5000,0,2,5,37
+Report_1088,UV-Vis Spectrophotometer UV-2600,6,5,,1.8
+Report_1088,Microplate Reader MRX,6,2,5,3.1
+Report_1088,FTIR Spectrometer FTIR-8400,6,3,5,1245
+Report_1088,Titrator T-905,7,1,4,0.005
+Report_1088,X-Ray Diffractometer XRD-6000,7,1,,110
+Report_1088,PCR Machine PCR-96,7,3,,32
+Report_1088,Ion Chromatograph IC-2100,0,4,,58.6
+Report_1088,Centrifuge X100,0,4,,2611.74
+Report_1088,Centrifuge X100,0,2,5,1984.19
+Report_1088,Centrifuge X100,6,2,4,5282.12
+Report_109,Mass Spectrometer MS-20,0,1,,1250
+Report_109,Conductivity Meter CM-215,7,2,,1500
+Report_109,Mass Spectrometer MS-20,6,1,4,1100
+Report_109,Rheometer R-4500,0,2,5,550
+Report_109,UV-Vis Spectrophotometer UV-2600,6,2,5,2.8
+Report_109,Rheometer R-4500,0,2,4,700
+Report_109,Viscometer VS-300,0,1,5,2978.82
+Report_109,Viscometer VS-300,0,3,,2906.76
+Report_1106,HPLC System HPLC-9000,6,1,,500
+Report_1106,Ion Chromatograph IC-2100,7,4,,50
+Report_1106,UV-Vis Spectrophotometer UV-2600,0,,,1.5
+Report_1106,Liquid Chromatograph LC-400,6,1,,250
+Report_1106,X-Ray Diffractometer XRD-6000,7,,,90
+Report_1106,FTIR Spectrometer FTIR-8400,0,,,1000
+Report_1106,PCR Machine PCR-96,7,2,,35
+Report_1106,Microplate Reader MRX,7,2,,2
+Report_1106,Titrator T-905,6,1,,5
+Report_1106,Conductivity Meter CM-215,7,,,1500
+Report_1125,Conductivity Meter CM-215,6,2,,1542
+Report_1125,UV-Vis Spectrophotometer UV-2600,0,2,5,1.87
+Report_1125,Four Ball FB-1000,0,3,4,0.675
+Report_1162,Mass Spectrometer MS-20,7,,,1500
+Report_1162,Liquid Chromatograph LC-400,6,1,4,250
+Report_1162,HPLC System HPLC-9000,6,5,,200
+Report_1162,Gas Chromatograph GC-2010,6,,,80
+Report_1162,UV-Vis Spectrophotometer UV-2600,0,2,,1.8
+Report_1162,Titrator T-905,0,1,,0.005
+Report_1162,Rheometer R-4500,7,,,500
+Report_1162,Viscometer VS-300,6,,,5098.96
+Report_1162,Viscometer VS-300,7,4,,7440.05
+Report_1162,Viscometer VS-300,7,2,5,7694.27
+Report_1172,Mass Spectrometer MS-20,7,3,5,845
+Report_1172,Mass Spectrometer MS-20,6,5,,1958
+Report_1172,Viscometer VS-300,6,1,,4804.3
+Report_1172,Four Ball FB-1000,6,3,5,0.75
+Report_1172,Four Ball FB-1000,6,4,,0.65
+Report_1172,Conductivity Meter CM-215,7,5,,520
+Report_1172,HPLC System HPLC-9000,0,3,5,150
+Report_1172,NMR Spectrometer NMR-500,0,1,5,12
+Report_1172,Gas Chromatograph GC-2010,0,2,,0.75
+Report_1185,Gas Chromatograph GC-2010,6,,,500
+Report_1185,Ion Chromatograph IC-2100,7,,,75
+Report_1185,HPLC System HPLC-9000,7,1,4,0.75
+Report_1185,Rheometer R-4500,,,,350
+Report_1185,Viscometer VS-300,,,,1947.43
+Report_1185,Conductivity Meter CM-215,7,1,5,1800
+Report_1185,Four Ball FB-1000,7,,,0.55
+Report_1185,Centrifuge X100,6,2,,12000
+Report_1194,Microplate Reader MRX,0,2,4,3.2
+Report_1194,UV-Vis Spectrophotometer UV-2600,0,1,4,2.8
+Report_1194,PCR Machine PCR-96,7,2,5,16.5
+Report_1195,X-Ray Diffractometer XRD-6000,,,,120 °C
+Report_1195,FTIR Spectrometer FTIR-8400,,,,1500 1/cm
+Report_120,UV-Vis Spectrophotometer UV-2600,6,3,5,1.2
+Report_120,HPLC System HPLC-9000,6,1,,250.5
+Report_120,Gas Chromatograph GC-2010,7,3,,450.8
+Report_120,HPLC System HPLC-9000,7,2,,500.2
+Report_120,Rheometer R-4500,0,3,,25.4
+Report_120,pH Meter PH-700,0,3,4,7.4
+Report_120,Viscometer VS-300,6,3,4,5025.2
+Report_120,Viscometer VS-300,7,1,5,7108.01
+Report_1200,Rheometer R-4500,0,1,,500
+Report_1200,Rheometer R-4500,7,3,,750
+Report_1200,pH Meter PH-700,7,2,4,7
+Report_1200,pH Meter PH-700,0,3,,6
+Report_1200,X-Ray Diffractometer XRD-6000,6,,,100
+Report_1200,X-Ray Diffractometer XRD-6000,7,1,,120
+Report_1200,Microplate Reader MRX,6,2,,2.5
+Report_1200,Spectrometer Alpha-300,6,1,,450
+Report_1200,NMR Spectrometer NMR-500,0,2,5,10
+Report_1200,FTIR Spectrometer FTIR-8400,6,3,,1500
+Report_1200,Viscometer VS-300,0,3,,2695.16
+Report_1200,Viscometer VS-300,6,4,,4727.33
+Report_1206,Four Ball FB-1000,7,5,,0.65
+Report_1206,X-Ray Diffractometer XRD-6000,0,2,4,45
+Report_1206,Mass Spectrometer MS-20,6,3,,1500
+Report_1206,Ion Chromatograph IC-2100,7,1,4,50
+Report_1223,HPLC System HPLC-9000,0,,,870.5
+Report_1223,X-Ray Diffractometer XRD-6000,0,,,50
+Report_1223,Thermocycler TC-5000,6,,,72
+Report_1223,Mass Spectrometer MS-20,7,,,1200
+Report_1223,pH Meter PH-700,6,,,7
+Report_1223,PCR Machine PCR-96,7,,,25
+Report_1223,Four Ball FB-1000,0,,,0.6
+Report_1223,Rheometer R-4500,6,,,250
+Report_1223,UV-Vis Spectrophotometer UV-2600,7,,,1.8
+Report_1223,Viscometer VS-300,6,,,4802.12
+Report_1223,Viscometer VS-300,7,,,7418.99
+Report_1226,Mass Spectrometer MS-20,0,2,4,1750
+Report_1226,Liquid Chromatograph LC-400,6,5,,250
+Report_1226,NMR Spectrometer NMR-500,0,3,,5.5
+Report_1226,UV-Vis Spectrophotometer UV-2600,7,1,4,1.8
+Report_1226,Conductivity Meter CM-215,0,3,5,1500
+Report_1226,Viscometer VS-300,7,5,,7446.19
+Report_1226,Viscometer VS-300,6,4,,5042.01
+Report_1226,Four Ball FB-1000,7,2,,0.75
+Report_1226,Thermocycler TC-5000,6,2,5,85
+Report_1228,FTIR Spectrometer FTIR-8400,6,4,,Wavenumber
+Report_1228,NMR Spectrometer NMR-500,7,1,4,Chemical Shift
+Report_1228,X-Ray Diffractometer XRD-6000,0,1,,Angle
+Report_1228,Ion Chromatograph IC-2100,7,1,5,Concentration
+Report_1228,pH Meter PH-700,6,1,5,pH
+Report_1228,Liquid Chromatograph LC-400,6,2,5,Concentration
+Report_1228,UV-Vis Spectrophotometer UV-2600,6,3,,Absorbance
+Report_1228,HPLC System HPLC-9000,0,3,4,Concentration
+Report_1228,Centrifuge X100,0,3,5,Speed
+Report_1228,Spectrometer Alpha-300,7,3,4,Wavelength
+Report_1237,Spectrometer Alpha-300,0,3,,300
+Report_1237,HPLC System HPLC-9000,6,3,5,0.5
+Report_1237,Liquid Chromatograph LC-400,6,1,4,50
+Report_1237,Gas Chromatograph GC-2010,7,1,4,500
+Report_1237,Mass Spectrometer MS-20,7,2,5,1500
+Report_1237,Conductivity Meter CM-215,7,3,,1000
+Report_1237,PCR Machine PCR-96,0,4,,30
+Report_1237,Centrifuge X100,,,,
+Report_1237,Spectrometer Alpha-300,6,2,4,450
+Report_1237,HPLC System HPLC-9000,6,4,,0.7
+Report_1253,Spectrometer Alpha-300,0,4,,Absorption Peak
+Report_1253,pH Meter PH-700,6,4,,pH Level
+Report_1253,Liquid Chromatograph LC-400,7,1,5,Concentration
+Report_1253,X-Ray Diffractometer XRD-6000,0,2,4,Temperature
+Report_1253,Thermocycler TC-5000,6,2,,Thermal Profile
+Report_1253,Conductivity Meter CM-215,6,3,5,Conductivity
+Report_1253,Titrator T-905,7,2,,Molarity
+Report_1253,Viscometer VS-300,7,,,Viscosity
+Report_1253,Viscometer VS-300,0,2,5,Viscosity
+Report_1262,Rheometer R-4500,6,1,,Viscosity
+Report_1262,Four Ball FB-1000,7,2,,Wear Scar Diameter
+Report_1262,Ion Chromatograph IC-2100,6,,5,Concentration
+Report_1262,X-Ray Diffractometer XRD-6000,0,,,Melting Point
+Report_1262,Microplate Reader MRX,6,4,,Optical Density
+Report_1262,Centrifuge X100,7,1,,Rotational Speed
+Report_1262,pH Meter PH-700,6,1,5,pH
+Report_1262,FTIR Spectrometer FTIR-8400,7,2,5,Absorbance
+Report_1262,Viscometer VS-300,6,,,Viscosity
+Report_1262,Viscometer VS-300,6,5,,Viscosity
+Report_128,Four Ball FB-1000,6,2,,Wear Scar: 0.750 mm
+Report_128,Liquid Chromatograph LC-400,7,2,4,250 μg/mL
+Report_128,Centrifuge X100,0,3,4,12000 RPM
+Report_128,Viscometer VS-300,6,1,4,4728.66 cP
+Report_1308,FTIR Spectrometer FTIR-8400,,,,3500
+Report_1308,Titrator T-905,,,,0.002
+Report_1308,Four Ball FB-1000,,,,0.75
+Report_1308,Viscometer VS-300,,,,4844.69
+Report_1308,Viscometer VS-300,,,,7284.85
+Report_1316,Centrifuge X100,0,1,5,Identified Peaks
+Report_1316,Centrifuge X100,6,4,,Resonance Verified
+Report_1316,Centrifuge X100,0,1,5,Component Quantified
+Report_133,Spectrometer Alpha-300,7,5,,750
+Report_133,UV-Vis Spectrophotometer UV-2600,0,3,5,1.25
+Report_133,Microplate Reader MRX,7,3,,2.5
+Report_133,Spectrometer Alpha-300,0,1,4,850
+Report_133,Four Ball FB-1000,6,2,,0.5
+Report_133,Four Ball FB-1000,6,,,0.75
+Report_133,Conductivity Meter CM-215,0,1,5,1500
+Report_133,Conductivity Meter CM-215,7,3,,1800
+Report_133,Viscometer VS-300,7,1,5,7322.09
+Report_133,Viscometer VS-300,0,3,5,2628.15
+Report_133,Ion Chromatograph IC-2100,6,2,4,75
+Report_1344,NMR Spectrometer NMR-500,,,,15.3
+Report_1344,Gas Chromatograph GC-2010,7,3,5,329.9
+Report_1344,Mass Spectrometer MS-20,,,,1024
+Report_1344,Ion Chromatograph IC-2100,,,,18.6
+Report_1344,pH Meter PH-700,,,,7.1
+Report_1344,Titrator T-905,6,,,5.2
+Report_1344,Viscometer VS-300,0,2,5,1856.31
+Report_1344,Viscometer VS-300,0,2,5,1880.08
+Report_1344,Viscometer VS-300,7,1,4,7164.26
+Report_1344,PCR Machine PCR-96,0,3,5,28.4
+Report_1344,UV-Vis Spectrophotometer UV-2600,6,,,1.7
+Report_1344,Microplate Reader MRX,7,3,4,2.8
+Report_1344,HPLC System HPLC-9000,7,2,4,482.7
+Report_1352,Gas Chromatograph GC-2010,,,,350
+Report_1352,Spectrometer Alpha-300,,,,600
+Report_1352,UV-Vis Spectrophotometer UV-2600,,,,1.8
+Report_1352,HPLC System HPLC-9000,,,,550
+Report_1352,Microplate Reader MRX,,,,3.2
+Report_1352,FTIR Spectrometer FTIR-8400,,,,1700
+Report_1352,Viscometer VS-300,,,,4931.43
+Report_1352,Viscometer VS-300,,,,4719.76
+Report_1356,Mass Spectrometer MS-20,,,,1550 m/z
+Report_1356,Centrifuge X100,,,,8500 RPM
+Report_1356,Spectrometer Alpha-300,,,,650 nm
+Report_1356,pH Meter PH-700,,,,7.2 pH
+Report_1363,Ion Chromatograph IC-2100,0,2,,43.2 mM
+Report_1363,Liquid Chromatograph LC-400,6,2,4,120.3 µg/mL
+Report_1363,Rheometer R-4500,7,2,4,120.5 Pa-s
+Report_1374,Gas Chromatograph GC-2010,7,3,5,750
+Report_1374,HPLC System HPLC-9000,6,2,5,850
+Report_1374,Rheometer R-4500,0,1,4,400
+Report_1374,Liquid Chromatograph LC-400,7,1,,300
+Report_1374,Conductivity Meter CM-215,6,5,,1800
+Report_1374,UV-Vis Spectrophotometer UV-2600,7,4,,2.5
+Report_1374,Four Ball FB-1000,0,1,4,0.8
+Report_1374,Centrifuge X100,7,,,12000
+Report_1374,Viscometer VS-300,6,2,,5271.27
+Report_1374,Viscometer VS-300,6,5,,4813.05
+Report_1374,Viscometer VS-300,7,3,,7231.66
+Report_1378,Microplate Reader MRX,7,2,,3.2
+Report_1378,Mass Spectrometer MS-20,7,4,,1587
+Report_1378,Microplate Reader MRX,7,1,,2.5
+Report_1378,Mass Spectrometer MS-20,0,2,,1300
+Report_1378,Gas Chromatograph GC-2010,7,2,5,678
+Report_1378,Conductivity Meter CM-215,0,3,5,1540
+Report_1378,Four Ball FB-1000,7,1,5,0.753
+Report_1378,Four Ball FB-1000,0,3,,0.845
+Report_1378,Titrator T-905,0,1,,0.962
+Report_138,Liquid Chromatograph LC-400,6,1,,125.5
+Report_138,Conductivity Meter CM-215,0,3,4,750
+Report_138,Rheometer R-4500,6,4,,5.75
+Report_138,UV-Vis Spectrophotometer UV-2600,0,5,,1.2
+Report_138,NMR Spectrometer NMR-500,0,3,,10.5
+Report_138,Ion Chromatograph IC-2100,,1,,15.5
+Report_138,X-Ray Diffractometer XRD-6000,0,2,4,110
+Report_138,pH Meter PH-700,0,,,7.5
+Report_138,FTIR Spectrometer FTIR-8400,7,1,,1100
+Report_138,HPLC System HPLC-9000,,,,150.25
+Report_138,Viscometer VS-300,6,2,,5297.74
+Report_138,Viscometer VS-300,0,3,,2818.33
+Report_1384,HPLC System HPLC-9000,,,,0.05
+Report_1384,NMR Spectrometer NMR-500,,,,15
+Report_1402,NMR Spectrometer NMR-500,0,3,5,12.5
+Report_1402,Gas Chromatograph GC-2010,7,3,5,150
+Report_1402,Liquid Chromatograph LC-400,0,2,,50
+Report_1402,HPLC System HPLC-9000,0,1,5,250
+Report_1402,NMR Spectrometer NMR-500,7,5,,15
+Report_1402,Centrifuge X100,7,3,5,8000
+Report_1402,Centrifuge X100,0,3,5,12000
+Report_1402,Titrator T-905,0,1,5,0.005
+Report_1402,Titrator T-905,7,2,,0.002
+Report_1402,Viscometer VS-300,0,2,,2034.24
+Report_1402,Viscometer VS-300,7,5,,7637.9
+Report_1423,NMR Spectrometer NMR-500,0,1,,15.2
+Report_1423,Mass Spectrometer MS-20,0,1,,1450.5
+Report_143,Microplate Reader MRX,0,3,5,3.2
+Report_143,Spectrometer Alpha-300,6,1,5,550
+Report_143,Conductivity Meter CM-215,7,1,,750
+Report_143,pH Meter PH-700,6,3,,5.5
+Report_143,NMR Spectrometer NMR-500,7,2,4,12
+Report_143,Four Ball FB-1000,6,4,,0.65
+Report_143,Viscometer VS-300,6,3,5,5170.29
+Report_143,Viscometer VS-300,7,5,,7551.4
+Report_1432,Spectrometer Alpha-300,6,2,5,715
+Report_1432,FTIR Spectrometer FTIR-8400,0,3,,1500
+Report_1432,HPLC System HPLC-9000,0,2,,65
+Report_1432,Gas Chromatograph GC-2010,6,1,4,0.5
+Report_1432,Conductivity Meter CM-215,0,2,5,1200
+Report_1432,Rheometer R-4500,0,3,4,0.9
+Report_1445,FTIR Spectrometer FTIR-8400,4,,,1230
+Report_1445,X-Ray Diffractometer XRD-6000,3,5,,57
+Report_1445,Four Ball FB-1000,2,4,,0.45
+Report_1445,Microplate Reader MRX,3,,,3.2
+Report_1445,Ion Chromatograph IC-2100,2,5,,0.015
+Report_1445,FTIR Spectrometer FTIR-8400,5,,,1750
+Report_1445,Viscometer VS-300,2,,,5185.99
+Report_1445,Viscometer VS-300,4,,,2543.56
+Report_1445,Viscometer VS-300,3,4,,7355.07
+Report_1464,Liquid Chromatograph LC-400,7,3,,45.6 µg/mL
+Report_1464,HPLC System HPLC-9000,0,4,,150.5 mg/L
+Report_1464,NMR Spectrometer NMR-500,0,3,4,8.5 ppm
+Report_1464,Titrator T-905,0,1,,0.002 M
+Report_1464,UV-Vis Spectrophotometer UV-2600,0,3,4,2.3 Abs
+Report_1466,Microplate Reader MRX,7,1,4,2.7
+Report_1466,NMR Spectrometer NMR-500,7,2,5,12
+Report_1466,X-Ray Diffractometer XRD-6000,7,1,5,85
+Report_1466,PCR Machine PCR-96,6,2,,25
+Report_1466,HPLC System HPLC-9000,6,1,4,234
+Report_1466,Thermocycler TC-5000,0,3,5,72
+Report_1471,NMR Spectrometer NMR-500,7,3,4,15
+Report_1471,Gas Chromatograph GC-2010,6,3,,35.5
+Report_1471,HPLC System HPLC-9000,6,3,4,487.5
+Report_1471,Ion Chromatograph IC-2100,6,1,5,78.2
+Report_1471,pH Meter PH-700,7,2,,6.4
+Report_1471,X-Ray Diffractometer XRD-6000,0,2,,120
+Report_1471,UV-Vis Spectrophotometer UV-2600,7,2,4,1.8
+Report_1473,NMR Spectrometer NMR-500,7,4,,15
+Report_1473,UV-Vis Spectrophotometer UV-2600,0,3,4,2.5
+Report_1473,Rheometer R-4500,6,,,950
+Report_1473,Titrator T-905,6,5,,8
+Report_1473,Viscometer VS-300,7,2,4,7543.98
+Report_1473,Viscometer VS-300,7,1,4,7451.81
+Report_1473,Viscometer VS-300,7,1,,7125.94
+Report_1479,UV-Vis Spectrophotometer UV-2600,0,5,,1.2
+Report_1479,UV-Vis Spectrophotometer UV-2600,6,2,5,3.1
+Report_1479,Centrifuge X100,0,4,,12000
+Report_1479,Centrifuge X100,0,2,,7500
+Report_1479,Titrator T-905,6,1,4,0.005
+Report_1479,Titrator T-905,6,1,5,0.15
+Report_1479,Gas Chromatograph GC-2010,7,2,,250
+Report_1479,Gas Chromatograph GC-2010,7,4,,350
+Report_1479,X-Ray Diffractometer XRD-6000,6,5,,50
+Report_1479,Viscometer VS-300,6,1,4,4742.29
+Report_1479,Viscometer VS-300,6,2,,5447.12
+Report_1479,Viscometer VS-300,6,1,4,4695.79
+Report_1481,FTIR Spectrometer FTIR-8400,6,,,10
+Report_1481,Mass Spectrometer MS-20,7,,,589
+Report_1481,NMR Spectrometer NMR-500,0,,,15
+Report_1481,PCR Machine PCR-96,6,,,30
+Report_1481,HPLC System HPLC-9000,7,,,590
+Report_1483,Gas Chromatograph GC-2010,7,1,5,250
+Report_1483,Four Ball FB-1000,6,3,,0.75
+Report_1483,Microplate Reader MRX,7,3,5,2.5
+Report_1483,Conductivity Meter CM-215,6,3,4,1500
+Report_1483,Gas Chromatograph GC-2010,6,1,,0.3
+Report_1483,Four Ball FB-1000,0,2,4,0.85
+Report_1483,Liquid Chromatograph LC-400,6,5,,300
+Report_1483,X-Ray Diffractometer XRD-6000,0,3,5,90
+Report_15,Thermocycler TC-5000,0,4,,75
+Report_15,Microplate Reader MRX,7,3,4,2.5
+Report_15,Mass Spectrometer MS-20,0,3,4,950
+Report_15,NMR Spectrometer NMR-500,7,1,5,10
+Report_15,FTIR Spectrometer FTIR-8400,7,3,,3500
+Report_15,HPLC System HPLC-9000,0,4,,500
+Report_15,X-Ray Diffractometer XRD-6000,7,3,,120
+Report_15,Four Ball FB-1000,0,3,,0.75
+Report_15,Viscometer VS-300,6,,,5100.84
+Report_15,Viscometer VS-300,6,3,,4962.7
+Report_15,Viscometer VS-300,7,2,4,7649.09
+Report_1526,Conductivity Meter CM-215,6,1,,1845
+Report_1526,Conductivity Meter CM-215,0,,,1650
+Report_1526,pH Meter PH-700,6,2,5,7.5
+Report_1526,UV-Vis Spectrophotometer UV-2600,0,3,4,2.7
+Report_1526,UV-Vis Spectrophotometer UV-2600,6,5,,1.9
+Report_1526,X-Ray Diffractometer XRD-6000,0,2,4,120
+Report_1526,Viscometer VS-300,6,2,4,5130.79
+Report_1526,Four Ball FB-1000,0,2,,0.45
+Report_1526,HPLC System HPLC-9000,7,2,4,750
+Report_1526,Liquid Chromatograph LC-400,6,1,4,320
+Report_153,pH Meter PH-700,7,1,,7
+Report_153,Liquid Chromatograph LC-400,0,2,5,50
+Report_153,NMR Spectrometer NMR-500,0,2,,5
+Report_153,Four Ball FB-1000,6,3,5,0.6
+Report_153,PCR Machine PCR-96,0,3,5,30
+Report_1533,Conductivity Meter CM-215,0,1,4,1450
+Report_1533,Centrifuge X100,6,,,12000
+Report_1567,Mass Spectrometer MS-20,6,3,,1567
+Report_1567,PCR Machine PCR-96,0,5,,28
+Report_1567,Ion Chromatograph IC-2100,0,3,,45.12
+Report_1567,Four Ball FB-1000,0,2,,0.567
+Report_1569,Ion Chromatograph IC-2100,6,3,,35.67 mM
+Report_1569,Conductivity Meter CM-215,0,5,,1200 uS/cm
+Report_1569,Thermocycler TC-5000,7,3,5,55 °C
+Report_1569,NMR Spectrometer NMR-500,7,2,4,10.5 ppm
+Report_1569,FTIR Spectrometer FTIR-8400,0,1,,2500 1/cm
+Report_1569,Ion Chromatograph IC-2100,0,4,,45.12 mM
+Report_1569,Viscometer VS-300,7,1,4,7291.28 cP
+Report_1578,HPLC System HPLC-9000,0,,,528.43
+Report_1578,UV-Vis Spectrophotometer UV-2600,0,,,2.35
+Report_1578,NMR Spectrometer NMR-500,7,,,14.8
+Report_1578,Ion Chromatograph IC-2100,7,,,85.2
+Report_1578,Mass Spectrometer MS-20,7,,,1725.5
+Report_1578,Titrator T-905,0,,,4.21
+Report_1578,Spectrometer Alpha-300,7,,,645
+Report_1609,Liquid Chromatograph LC-400,7,2,,Concentration
+Report_1609,UV-Vis Spectrophotometer UV-2600,6,3,,Absorbance
+Report_161,Rheometer R-4500,,,,384.2
+Report_161,Thermocycler TC-5000,,,,73
+Report_165,HPLC System HPLC-9000,0,3,,Concentration
+Report_165,Rheometer R-4500,7,1,4,Viscosity
+Report_165,Microplate Reader MRX,6,,,Optical Density
+Report_165,Titrator T-905,0,1,5,Molarity
+Report_165,Centrifuge X100,,,,------------
+Report_165,Centrifuge X100,,,,"Ignore, This"
+Report_165,Centrifuge X100,,,,-------------
+Report_1652,Four Ball FB-1000,7,1,,0.45
+Report_1652,PCR Machine PCR-96,6,1,4,28
+Report_1652,HPLC System HPLC-9000,7,4,,500
+Report_1652,UV-Vis Spectrophotometer UV-2600,6,2,,2.3
+Report_1664,pH Meter PH-700,0,3,5,7.5
+Report_1664,Centrifuge X100,6,5,,6.8
+Report_1664,Mass Spectrometer MS-20,7,3,5,534
+Report_1687,FTIR Spectrometer FTIR-8400,0,1,4,450
+Report_1687,FTIR Spectrometer FTIR-8400,0,1,,3400
+Report_1687,pH Meter PH-700,7,3,5,5.9
+Report_1687,pH Meter PH-700,7,1,4,6.5
+Report_1687,Liquid Chromatograph LC-400,6,2,4,250
+Report_1687,Liquid Chromatograph LC-400,7,1,,150
+Report_1687,Ion Chromatograph IC-2100,0,2,5,10
+Report_1687,Viscometer VS-300,6,3,,5118.85
+Report_1687,Viscometer VS-300,6,3,,5230.99
+Report_169,Centrifuge X100,,,,12000
+Report_169,Viscometer VS-300,7,1,,7149.55
+Report_169,Viscometer VS-300,0,2,4,2064.04
+Report_169,Centrifuge X100,,,,...
+Report_169,Ion Chromatograph IC-2100,6,1,,0.025
+Report_169,Titrator T-905,6,,,7.5
+Report_169,Viscometer VS-300,7,5,,7345.66
+Report_169,Centrifuge X100,,,,...
+Report_169,pH Meter PH-700,7,3,4,7.2
+Report_169,Microplate Reader MRX,7,3,4,2.5
+Report_169,Centrifuge X100,,,,...
+Report_1730,Mass Spectrometer MS-20,6,3,5,1500
+Report_1730,NMR Spectrometer NMR-500,7,,,10
+Report_1730,Rheometer R-4500,7,5,,500
+Report_1730,UV-Vis Spectrophotometer UV-2600,0,1,4,2.8
+Report_1730,Spectrometer Alpha-300,6,2,5,450
+Report_1730,Titrator T-905,0,2,4,0.05
+Report_1730,Ion Chromatograph IC-2100,0,4,,25
+Report_1730,PCR Machine PCR-96,7,3,4,30
+Report_1730,Conductivity Meter CM-215,6,3,5,1800
+Report_1730,Viscometer VS-300,7,2,5,7642.45
+Report_1730,Viscometer VS-300,0,1,4,3129.4
+Report_1742,Mass Spectrometer MS-20,6,1,5,150
+Report_1742,X-Ray Diffractometer XRD-6000,7,,,160
+Report_1742,Viscometer VS-300,0,2,,2023.58
+Report_1742,Viscometer VS-300,7,2,4,7806.24
+Report_1743,Centrifuge X100,6,3,4,8500 RPM
+Report_1743,Viscometer VS-300,7,2,5,7559.24 cP
+Report_1743,Viscometer VS-300,6,3,5,5250.06 cP
+Report_1743,Viscometer VS-300,7,,,7514.61 cP
+Report_1743,Titrator T-905,6,5,,5.8 M
+Report_1743,Microplate Reader MRX,0,,,3.2 OD
+Report_1753,Spectrometer Alpha-300,0,2,4,Wavelength
+Report_1753,UV-Vis Spectrophotometer UV-2600,6,2,5,Absorbance
+Report_1753,Thermocycler TC-5000,0,4,,Temperature
+Report_1753,Gas Chromatograph GC-2010,0,1,5,Concentration
+Report_1759,Viscometer VS-300,,,,7432.05
+Report_1759,Viscometer VS-300,6,,,5002.71
+Report_1779,Liquid Chromatograph LC-400,0,1,4,ug/mL: 250
+Report_1779,Conductivity Meter CM-215,0,1,5,uS/cm: 1800
+Report_1779,Gas Chromatograph GC-2010,0,1,,ppm: 0.9
+Report_1796,Conductivity Meter CM-215,6,3,4,Conductivity: 1250
+Report_1796,UV-Vis Spectrophotometer UV-2600,0,3,5,Absorbance: 2.7
+Report_1796,pH Meter PH-700,6,1,,pH: 6.8
+Report_1796,Titrator T-905,0,2,,Molarity: 0.0025
+Report_1796,Gas Chromatograph GC-2010,0,1,5,Concentration: 850
+Report_1796,Microplate Reader MRX,6,,,Optical Density: 1.5
+Report_1796,PCR Machine PCR-96,6,2,5,Cycle Threshold: 25
+Report_1796,Rheometer R-4500,6,3,4,Viscosity: 450
+Report_1796,Liquid Chromatograph LC-400,0,1,5,Concentration: 200
+Report_1796,Thermocycler TC-5000,6,2,5,Temperature: 37
+Report_1796,Viscometer VS-300,6,2,,Viscosity: 5266.69
+Report_1796,Viscometer VS-300,6,3,,Viscosity: 5089.96
+Report_1828,Titrator T-905,6,1,4,5.678
+Report_1828,Mass Spectrometer MS-20,6,2,,1025
+Report_1828,FTIR Spectrometer FTIR-8400,6,3,,1234
+Report_1828,Liquid Chromatograph LC-400,0,2,4,250.3
+Report_1828,UV-Vis Spectrophotometer UV-2600,0,1,,1.45
+Report_1828,Microplate Reader MRX,6,1,,2.56
+Report_1828,Viscometer VS-300,0,3,,2918.11
+Report_1828,Viscometer VS-300,0,3,,3034.26
+Report_1829,Mass Spectrometer MS-20,7,2,,1500
+Report_1829,Thermocycler TC-5000,7,3,,60
+Report_1829,Spectrometer Alpha-300,0,2,5,350
+Report_1829,Gas Chromatograph GC-2010,6,3,5,500
+Report_1829,PCR Machine PCR-96,0,4,,25
+Report_1829,Ion Chromatograph IC-2100,7,1,4,10
+Report_1829,Centrifuge X100,0,2,,13000
+Report_1829,Microplate Reader MRX,7,2,,2.5
+Report_1829,Rheometer R-4500,6,3,5,750
+Report_1829,FTIR Spectrometer FTIR-8400,0,2,,3000
+Report_1857,Four Ball FB-1000,6,2,4,0.500 mm
+Report_1857,Conductivity Meter CM-215,7,2,,1200 uS/cm
+Report_1857,Conductivity Meter CM-215,6,2,,1800 uS/cm
+Report_1857,Centrifuge X100,6,,,12000 RPM
+Report_187,Ion Chromatograph IC-2100,0,,,0.025 mM
+Report_187,UV-Vis Spectrophotometer UV-2600,0,,,1.2 Abs
+Report_187,Rheometer R-4500,7,1,4,450 Pa-s
+Report_187,X-Ray Diffractometer XRD-6000,6,,,90
+Report_187,Microplate Reader MRX,6,5,,2.5 OD
+Report_187,FTIR Spectrometer FTIR-8400,6,3,,3500 1/cm
+Report_1875,Microplate Reader MRX,7,1,4,2.5
+Report_1875,Liquid Chromatograph LC-400,6,1,5,320
+Report_1875,Microplate Reader MRX,0,4,,1.8
+Report_1875,HPLC System HPLC-9000,0,1,5,750
+Report_1875,Four Ball FB-1000,7,,,0.45
+Report_1875,Conductivity Meter CM-215,7,3,4,1500
+Report_1875,Viscometer VS-300,0,2,,1938.93
+Report_1875,Viscometer VS-300,0,3,5,2797.92
+Report_1875,Titrator T-905,0,1,4,5.3
+Report_1875,Ion Chromatograph IC-2100,6,2,4,60
+Report_1875,PCR Machine PCR-96,6,5,,28
+Report_1877,Centrifuge X100,7,3,,12050
+Report_1877,Centrifuge X100,6,1,,13200
+Report_1877,Conductivity Meter CM-215,0,5,,1450
+Report_1877,Gas Chromatograph GC-2010,6,3,,350.5
+Report_1899,Spectrometer Alpha-300,,,,850
+Report_1899,UV-Vis Spectrophotometer UV-2600,,,,1.8
+Report_1899,Viscometer VS-300,,,,4730.95
+Report_1899,Titrator T-905,,,,5.75
+Report_1899,Centrifuge X100,,,,12000
+Report_1899,Viscometer VS-300,,,,7677.93
+Report_1899,Rheometer R-4500,,,,750.3
+Report_1899,Conductivity Meter CM-215,,,,950
+Report_1899,pH Meter PH-700,,,,7.2
+Report_1899,X-Ray Diffractometer XRD-6000,,,,120
+Report_1899,HPLC System HPLC-9000,,,,150.5
+Report_1899,Liquid Chromatograph LC-400,,,,250
+Report_1914,Four Ball FB-1000,6,1,5,0.5
+Report_1914,PCR Machine PCR-96,6,,,35
+Report_1914,FTIR Spectrometer FTIR-8400,0,2,5,2500
+Report_1914,Gas Chromatograph GC-2010,6,5,,0.5
+Report_1914,X-Ray Diffractometer XRD-6000,7,1,4,120
+Report_1914,Rheometer R-4500,7,5,,150
+Report_192,Ion Chromatograph IC-2100,7,3,,55.678
+Report_192,Four Ball FB-1000,0,2,,0.756
+Report_192,PCR Machine PCR-96,0,5,,28
+Report_192,Mass Spectrometer MS-20,0,3,4,1235
+Report_192,NMR Spectrometer NMR-500,0,3,,15
+Report_192,Spectrometer Alpha-300,6,4,,230
+Report_192,Liquid Chromatograph LC-400,6,2,,350
+Report_1926,X-Ray Diffractometer XRD-6000,,,,112°C
+Report_1926,Titrator T-905,,,,8.5 M
+Report_1926,Centrifuge X100,,,,...
+Report_1936,pH Meter PH-700,0,3,5,6.5
+Report_1936,Four Ball FB-1000,6,1,4,0.65
+Report_1936,Viscometer VS-300,0,,,2561.57
+Report_1936,Viscometer VS-300,7,,,7387.97
+Report_1964,PCR Machine PCR-96,7,4,,24
+Report_1964,NMR Spectrometer NMR-500,6,5,,15
+Report_1964,Centrifuge X100,6,1,5,8000
+Report_1970,X-Ray Diffractometer XRD-6000,7,3,,120.5
+Report_1970,FTIR Spectrometer FTIR-8400,0,3,,1700
+Report_1970,Mass Spectrometer MS-20,0,2,,1500.3
+Report_1970,NMR Spectrometer NMR-500,7,3,4,15.3
+Report_1970,Viscometer VS-300,7,3,4,7120.18
+Report_1970,Viscometer VS-300,7,2,5,7790.07
+Report_1970,Viscometer VS-300,6,,,5320.55
+Report_1987,Rheometer R-4500,7,2,,892
+Report_1987,Rheometer R-4500,7,3,,675
+Report_1987,Viscometer VS-300,7,,,7477.57
+Report_1987,Ion Chromatograph IC-2100,6,,,45
+Report_1987,FTIR Spectrometer FTIR-8400,0,3,5,987
+Report_1994,Viscometer VS-300,0,1,5,2779.15
+Report_1994,Viscometer VS-300,0,2,,2053.69
+Report_1994,Viscometer VS-300,0,2,4,2011.87
+Report_1994,Rheometer R-4500,7,1,,569.32
+Report_2006,Rheometer R-4500,7,1,5,75.3
+Report_2006,Centrifuge X100,6,1,4,12000
+Report_2006,pH Meter PH-700,7,2,,6.8
+Report_2006,Viscometer VS-300,6,2,4,5336.99
+Report_2006,Viscometer VS-300,7,1,4,7195.84
+Report_2006,HPLC System HPLC-9000,0,3,4,500.23
+Report_2006,UV-Vis Spectrophotometer UV-2600,0,4,,2.15
+Report_2006,Ion Chromatograph IC-2100,0,1,4,0.05
+Report_2006,FTIR Spectrometer FTIR-8400,0,3,4,1200
+Report_2006,X-Ray Diffractometer XRD-6000,7,,,90
+Report_2006,Mass Spectrometer MS-20,7,3,5,1500
+Report_205,FTIR Spectrometer FTIR-8400,7,3,5,1300
+Report_205,Spectrometer Alpha-300,0,4,,650
+Report_205,Ion Chromatograph IC-2100,6,4,,0.05
+Report_205,PCR Machine PCR-96,7,1,4,28
+Report_205,Mass Spectrometer MS-20,0,3,5,1200
+Report_205,Four Ball FB-1000,0,5,,0.6
+Report_205,Centrifuge X100,6,5,,12000
+Report_205,Titrator T-905,0,1,5,0.8
+Report_205,Gas Chromatograph GC-2010,0,1,,50
+Report_205,FTIR Spectrometer FTIR-8400,6,1,5,3500
+Report_2050,Conductivity Meter CM-215,,,,1500
+Report_2050,Rheometer R-4500,,,,500
+Report_2064,Rheometer R-4500,0,1,5,500
+Report_2064,Viscometer VS-300,7,1,4,7187.33
+Report_2064,Viscometer VS-300,0,,,1963.95
+Report_2064,Mass Spectrometer MS-20,0,3,4,950
+Report_2064,NMR Spectrometer NMR-500,0,1,5,15
+Report_2064,Gas Chromatograph GC-2010,0,3,4,750
+Report_2064,UV-Vis Spectrophotometer UV-2600,6,3,,2.1
+Report_2064,Microplate Reader MRX,7,2,5,3.3
+Report_2064,pH Meter PH-700,6,3,,6.5
+Report_2064,Centrifuge X100,7,1,5,12500
+Report_2064,Conductivity Meter CM-215,7,2,5,1500
+Report_2073,Mass Spectrometer MS-20,0,,,950
+Report_2073,Viscometer VS-300,0,1,4,3028.33
+Report_2085,Viscometer VS-300,6,,,4942.1
+Report_2085,Viscometer VS-300,7,,,7010.56
+Report_2117,HPLC System HPLC-9000,0,,,523.47
+Report_2117,Ion Chromatograph IC-2100,6,,,83.6
+Report_2117,X-Ray Diffractometer XRD-6000,7,,,134.2
+Report_2117,Spectrometer Alpha-300,7,,,724.5
+Report_2117,FTIR Spectrometer FTIR-8400,0,,,2543
+Report_2117,Viscometer VS-300,7,,,7382.88
+Report_2119,Four Ball FB-1000,7,2,4,0.55
+Report_2119,Viscometer VS-300,0,4,,2491.36
+Report_2119,Viscometer VS-300,7,3,,7204.82
+Report_2128,X-Ray Diffractometer XRD-6000,,,,120
+Report_2128,Thermocycler TC-5000,,,,45
+Report_2128,Liquid Chromatograph LC-400,,,,230
+Report_2128,Gas Chromatograph GC-2010,,,,550
+Report_2128,Mass Spectrometer MS-20,,,,1800
+Report_2128,Spectrometer Alpha-300,,,,350
+Report_2128,X-Ray Diffractometer XRD-6000,,,,160
+Report_2128,Thermocycler TC-5000,,,,77
+Report_2128,Liquid Chromatograph LC-400,,,,290
+Report_2153,Mass Spectrometer MS-20,7,3,4,850
+Report_2153,Centrifuge X100,7,4,,12000
+Report_2153,Viscometer VS-300,0,2,,1988.85
+Report_2153,Viscometer VS-300,0,2,,2017.45
+Report_2153,Viscometer VS-300,0,4,,2508.31
+Report_2165,Mass Spectrometer MS-20,7,,,1650
+Report_2165,Four Ball FB-1000,0,,,0.95
+Report_2165,NMR Spectrometer NMR-500,7,,,15
+Report_2183,Liquid Chromatograph LC-400,7,,,250 ug/mL
+Report_2183,FTIR Spectrometer FTIR-8400,0,,,3000 1/cm
+Report_2183,Rheometer R-4500,7,1,4,200 Pa-s
+Report_2183,Thermocycler TC-5000,0,1,,37°C
+Report_2194,Mass Spectrometer MS-20,7,3,5,850
+Report_2194,UV-Vis Spectrophotometer UV-2600,6,2,4,2.8
+Report_2194,Thermocycler TC-5000,7,2,5,67
+Report_2194,NMR Spectrometer NMR-500,7,2,4,15
+Report_2194,FTIR Spectrometer FTIR-8400,7,1,5,1800
+Report_2206,NMR Spectrometer NMR-500,7,2,,Chemical Shift
+Report_2206,Viscometer VS-300,0,2,4,Viscosity
+Report_2206,Four Ball FB-1000,7,1,5,Wear Resistance
+Report_2206,Viscometer VS-300,0,1,5,Viscosity
+Report_2206,Viscometer VS-300,7,4,,Viscosity
+Report_2208,UV-Vis Spectrophotometer UV-2600,0,2,4,1.2
+Report_2208,Conductivity Meter CM-215,0,1,4,500
+Report_2208,Rheometer R-4500,7,2,4,250
+Report_2208,Ion Chromatograph IC-2100,0,2,,50
+Report_2208,Gas Chromatograph GC-2010,7,5,,350
+Report_2208,Titrator T-905,6,5,,0.005
+Report_2247,Spectrometer Alpha-300,0,1,,475
+Report_2247,Spectrometer Alpha-300,7,2,4,675
+Report_2247,NMR Spectrometer NMR-500,0,2,4,12
+Report_2247,NMR Spectrometer NMR-500,6,1,4,18
+Report_2247,Rheometer R-4500,7,1,,500
+Report_2247,Rheometer R-4500,7,4,,300
+Report_2247,Ion Chromatograph IC-2100,6,3,,10
+Report_2247,Mass Spectrometer MS-20,6,2,5,1502
+Report_2247,X-Ray Diffractometer XRD-6000,0,3,,90
+Report_2247,Viscometer VS-300,7,2,4,7688.39
+Report_2247,Viscometer VS-300,6,5,,5123.92
+Report_2247,Viscometer VS-300,6,1,,4826.84
+Report_2263,X-Ray Diffractometer XRD-6000,0,,,120
+Report_2263,Gas Chromatograph GC-2010,6,1,5,400
+Report_2263,Conductivity Meter CM-215,6,4,,1800
+Report_2263,Titrator T-905,0,2,4,0.002
+Report_2282,pH Meter PH-700,7,1,,7.1 pH
+Report_2282,Thermocycler TC-5000,6,4,,72
+Report_2282,UV-Vis Spectrophotometer UV-2600,0,1,4,1.2
+Report_2282,Spectrometer Alpha-300,7,2,5,540
+Report_2282,Mass Spectrometer MS-20,6,2,,180
+Report_2282,Microplate Reader MRX,0,4,,2.8
+Report_2282,FTIR Spectrometer FTIR-8400,6,5,,3400
+Report_2282,Viscometer VS-300,7,2,4,7624.03
+Report_2282,Viscometer VS-300,7,3,,7354.81
+Report_2284,Thermocycler TC-5000,0,,,Temperature
+Report_2284,UV-Vis Spectrophotometer UV-2600,6,1,,Absorbance
+Report_2284,Gas Chromatograph GC-2010,7,5,,Concentration
+Report_2284,Mass Spectrometer MS-20,6,3,5,Mass-to-Charge
+Report_2284,Spectrometer Alpha-300,0,3,4,Wavelength
+Report_2284,Viscometer VS-300,0,3,5,Viscosity
+Report_2284,Centrifuge X100,6,5,,Viscosity
+Report_2284,PCR Machine PCR-96,6,,,Cycle Threshold
+Report_2284,FTIR Spectrometer FTIR-8400,0,,,Frequency Range
+Report_2284,Titrator T-905,7,,,Molarity
+Report_2289,PCR Machine PCR-96,6,,,35
+Report_2289,Ion Chromatograph IC-2100,7,2,,10.25
+Report_2289,Gas Chromatograph GC-2010,0,2,,450
+Report_2289,pH Meter PH-700,7,,,7
+Report_2289,HPLC System HPLC-9000,0,2,4,350
+Report_2290,Gas Chromatograph GC-2010,6,4,,543.2
+Report_2290,Conductivity Meter CM-215,6,3,4,1543.6
+Report_2290,Rheometer R-4500,7,,,312.5
+Report_2290,Ion Chromatograph IC-2100,6,2,4,24.7
+Report_2290,PCR Machine PCR-96,0,3,5,18.3
+Report_23,UV-Vis Spectrophotometer UV-2600,6,2,4,2.7 Abs
+Report_23,Spectrometer Alpha-300,7,2,,650 nm
+Report_23,Thermocycler TC-5000,0,1,,55 °C
+Report_23,Four Ball FB-1000,7,1,5,0.750 mm
+Report_23,PCR Machine PCR-96,0,3,5,28 Ct
+Report_23,Mass Spectrometer MS-20,6,4,,450 m/z
+Report_23,Centrifuge X100,7,2,,12000 RPM
+Report_23,Rheometer R-4500,0,1,,500 Pa-s
+Report_23,Viscometer VS-300,0,4,,2550.91 cP
+Report_23,Viscometer VS-300,6,4,,4824.28 cP
+Report_2307,Gas Chromatograph GC-2010,6,1,5,450
+Report_2307,Gas Chromatograph GC-2010,6,2,,500
+Report_2307,Liquid Chromatograph LC-400,6,1,4,120
+Report_2307,FTIR Spectrometer FTIR-8400,7,2,4,2850
+Report_2307,NMR Spectrometer NMR-500,0,3,5,15
+Report_2307,Microplate Reader MRX,0,3,4,2.3
+Report_2307,Microplate Reader MRX,0,2,,1.8
+Report_2307,Centrifuge X100,6,3,5,7500
+Report_2307,X-Ray Diffractometer XRD-6000,7,,,70
+Report_2331,Titrator T-905,7,2,4,2.5
+Report_2331,Microplate Reader MRX,6,3,,1.2
+Report_2331,Conductivity Meter CM-215,7,3,4,1500
+Report_2331,Rheometer R-4500,6,4,,25.7
+Report_2331,Spectrometer Alpha-300,7,5,,450
+Report_2331,Centrifuge X100,0,2,,13500
+Report_2331,Thermocycler TC-5000,7,2,,37
+Report_2331,Gas Chromatograph GC-2010,7,3,,250
+Report_2331,Titrator T-905,7,4,,6.8
+Report_2331,Viscometer VS-300,7,1,,7059.24
+Report_2331,Viscometer VS-300,0,,,2329.65
+Report_2389,Spectrometer Alpha-300,0,2,5,510.5
+Report_2389,Spectrometer Alpha-300,6,3,4,850.2
+Report_2389,Titrator T-905,7,1,5,0.045
+Report_2389,Titrator T-905,0,,,0.078
+Report_2389,Conductivity Meter CM-215,0,2,4,1250
+Report_2389,Conductivity Meter CM-215,6,4,,1450
+Report_2389,Viscometer VS-300,6,2,,5177.27
+Report_2389,Viscometer VS-300,7,4,,7403.95
+Report_2389,UV-Vis Spectrophotometer UV-2600,7,2,,2.1
+Report_2389,Microplate Reader MRX,0,2,,0.9
+Report_2389,Rheometer R-4500,0,1,5,320
+Report_2389,Gas Chromatograph GC-2010,7,,,225.3
+Report_2400,Four Ball FB-1000,0,1,5,Scar Diameter
+Report_2400,Titrator T-905,7,2,5,Concentration
+Report_2400,Conductivity Meter CM-215,6,2,,Conductivity
+Report_2400,Gas Chromatograph GC-2010,6,4,,Compound Detection
+Report_2400,NMR Spectrometer NMR-500,6,3,5,Chemical Shift
+Report_2400,pH Meter PH-700,7,4,,pH Level
+Report_2425,Microplate Reader MRX,6,2,,1.95 OD
+Report_2425,UV-Vis Spectrophotometer UV-2600,6,1,5,2.25 Abs
+Report_2425,FTIR Spectrometer FTIR-8400,6,3,4,3000 1/cm
+Report_2452,Four Ball FB-1000,6,1,,0.5
+Report_2452,Four Ball FB-1000,7,2,5,0.8
+Report_2452,Rheometer R-4500,6,1,4,300
+Report_2452,NMR Spectrometer NMR-500,0,,,10
+Report_2452,UV-Vis Spectrophotometer UV-2600,0,2,,2.5
+Report_2452,HPLC System HPLC-9000,0,1,,15
+Report_2452,Gas Chromatograph GC-2010,0,1,,850
+Report_2452,Liquid Chromatograph LC-400,6,3,,250
+Report_2468,Liquid Chromatograph LC-400,6,2,,0.25
+Report_2468,NMR Spectrometer NMR-500,0,1,5,15
+Report_2468,Conductivity Meter CM-215,0,1,,800
+Report_2468,Spectrometer Alpha-300,6,1,4,650
+Report_2476,Titrator T-905,6,2,4,7.655
+Report_2476,Conductivity Meter CM-215,0,3,5,1500
+Report_2476,UV-Vis Spectrophotometer UV-2600,6,3,4,2.45
+Report_2476,NMR Spectrometer NMR-500,7,5,,10.7
+Report_2476,pH Meter PH-700,6,2,,6.5
+Report_2476,Centrifuge X100,,,,...
+Report_2483,Spectrometer Alpha-300,7,1,4,850
+Report_2483,X-Ray Diffractometer XRD-6000,6,2,4,120
+Report_2483,Mass Spectrometer MS-20,6,1,4,1500
+Report_2483,HPLC System HPLC-9000,7,,,110
+Report_2483,Centrifuge X100,7,3,5,8500
+Report_2483,Microplate Reader MRX,7,1,4,1.2
+Report_2483,pH Meter PH-700,6,2,4,5
+Report_2483,FTIR Spectrometer FTIR-8400,6,1,4,3500
+Report_2488,Mass Spectrometer MS-20,0,1,4,m/z
+Report_2488,Microplate Reader MRX,7,4,,OD
+Report_2488,UV-Vis Spectrophotometer UV-2600,0,1,,Abs
+Report_2488,Thermocycler TC-5000,7,2,,Temperature
+Report_2488,NMR Spectrometer NMR-500,0,4,,Chemical Shift
+Report_2488,Conductivity Meter CM-215,7,,,Conductivity
+Report_2488,Titrator T-905,0,1,4,Concentration
+Report_2488,Viscometer VS-300,7,3,,Viscosity
+Report_2488,Viscometer VS-300,7,2,4,Viscosity
+Report_2494,Rheometer R-4500,6,3,5,350
+Report_2494,Thermocycler TC-5000,7,3,,55
+Report_2494,Spectrometer Alpha-300,0,3,,450
+Report_2494,Gas Chromatograph GC-2010,6,3,4,500
+Report_2494,Mass Spectrometer MS-20,7,1,4,1200
+Report_2496,Ion Chromatograph IC-2100,0,1,,12.345
+Report_2496,NMR Spectrometer NMR-500,7,1,,5.67
+Report_2496,Thermocycler TC-5000,7,3,4,37
+Report_2496,PCR Machine PCR-96,6,1,5,25.4
+Report_2496,Rheometer R-4500,7,4,,250
+Report_2496,Mass Spectrometer MS-20,6,4,,1500
+Report_2496,HPLC System HPLC-9000,7,5,,300
+Report_2496,Titrator T-905,7,3,,0.654
+Report_2496,UV-Vis Spectrophotometer UV-2600,6,3,5,2.75
+Report_2496,Viscometer VS-300,6,,,5045.09
+Report_2496,Viscometer VS-300,6,5,,5157.17
+Report_254,Mass Spectrometer MS-20,6,5,,1745 m/z
+Report_254,Liquid Chromatograph LC-400,0,5,,150 µg/mL
+Report_254,HPLC System HPLC-9000,6,4,,85 mg/L
+Report_254,Ion Chromatograph IC-2100,7,1,5,25 mM
+Report_255,Microplate Reader MRX,7,3,5,3.2
+Report_255,Microplate Reader MRX,7,,,2.7
+Report_255,HPLC System HPLC-9000,7,1,4,450.5
+Report_255,Mass Spectrometer MS-20,0,1,,1550
+Report_255,X-Ray Diffractometer XRD-6000,6,5,,85
+Report_255,pH Meter PH-700,6,2,5,6.8
+Report_255,Viscometer VS-300,7,1,4,7070.48
+Report_255,Viscometer VS-300,7,3,4,7236.41
+Report_264,UV-Vis Spectrophotometer UV-2600,6,2,,2.7
+Report_264,Rheometer R-4500,7,2,,500
+Report_264,Four Ball FB-1000,6,4,,0.75
+Report_264,NMR Spectrometer NMR-500,0,2,,15
+Report_264,Ion Chromatograph IC-2100,0,1,,10
+Report_3,Liquid Chromatograph LC-400,7,3,4,250.35
+Report_3,FTIR Spectrometer FTIR-8400,0,1,4,1050.5
+Report_3,Spectrometer Alpha-300,7,1,5,350.2
+Report_3,Rheometer R-4500,7,,,0.55
+Report_3,NMR Spectrometer NMR-500,6,5,,10.5
+Report_3,Ion Chromatograph IC-2100,0,1,5,25.8
+Report_3,PCR Machine PCR-96,0,3,,30.3
+Report_3,Four Ball FB-1000,7,1,5,0.45
+Report_3,X-Ray Diffractometer XRD-6000,7,,,90
+Report_3,Viscometer VS-300,0,3,5,2744.95
+Report_301,Liquid Chromatograph LC-400,0,3,5,250 ug/mL
+Report_301,pH Meter PH-700,7,3,,pH 7
+Report_304,PCR Machine PCR-96,,1,,25
+Report_304,UV-Vis Spectrophotometer UV-2600,,2,,1.2
+Report_304,Titrator T-905,,,,0.5
+Report_304,FTIR Spectrometer FTIR-8400,,3,,2800
+Report_304,Ion Chromatograph IC-2100,,1,5,75
+Report_325,Four Ball FB-1000,0,2,,0.35
+Report_325,Four Ball FB-1000,6,3,,0.6
+Report_325,NMR Spectrometer NMR-500,6,5,,10.5
+Report_325,NMR Spectrometer NMR-500,0,1,,8.5
+Report_325,Conductivity Meter CM-215,0,5,,750
+Report_325,Conductivity Meter CM-215,7,,,1000
+Report_333,X-Ray Diffractometer XRD-6000,6,5,,145
+Report_333,Gas Chromatograph GC-2010,6,5,,350
+Report_333,Centrifuge X100,,,,BLT
+Report_333,Conductivity Meter CM-215,7,3,5,980
+Report_333,Four Ball FB-1000,7,3,5,0.5
+Report_333,Centrifuge X100,,,,ABC
+Report_333,Thermocycler TC-5000,7,2,5,52
+Report_333,PCR Machine PCR-96,6,4,,28
+Report_333,Centrifuge X100,,,,FYI
+Report_333,Viscometer VS-300,0,2,5,1822.54
+Report_333,Viscometer VS-300,6,2,4,5117.26
+Report_333,Centrifuge X100,7,5,,12000
+Report_333,HPLC System HPLC-9000,6,4,,250
+Report_333,Centrifuge X100,,,,XYZ
+Report_351,Mass Spectrometer MS-20,6,1,,1570
+Report_351,X-Ray Diffractometer XRD-6000,6,1,,120
+Report_351,Conductivity Meter CM-215,0,3,4,820
+Report_351,Gas Chromatograph GC-2010,0,2,4,765
+Report_351,HPLC System HPLC-9000,0,2,,45.2
+Report_351,PCR Machine PCR-96,7,3,4,30
+Report_351,FTIR Spectrometer FTIR-8400,0,4,,950
+Report_351,Viscometer VS-300,0,2,4,1864.54
+Report_351,Viscometer VS-300,6,2,4,5181.57
+Report_354,Titrator T-905,7,2,,4.523
+Report_354,Titrator T-905,7,2,4,3.212
+Report_354,pH Meter PH-700,7,1,5,5.6
+Report_354,Microplate Reader MRX,7,4,,2.3
+Report_354,Microplate Reader MRX,7,1,4,1.9
+Report_354,HPLC System HPLC-9000,0,1,4,345.67
+Report_354,PCR Machine PCR-96,0,2,5,15.2
+Report_354,pH Meter PH-700,0,4,,6.8
+Report_354,Viscometer VS-300,0,1,5,2945.91
+Report_354,Spectrometer Alpha-300,6,1,,550.4
+Report_354,Viscometer VS-300,6,3,4,4911.39
+Report_378,UV-Vis Spectrophotometer UV-2600,6,1,4,1.8
+Report_378,Four Ball FB-1000,0,,,0.55
+Report_378,FTIR Spectrometer FTIR-8400,0,,,2800
+Report_378,X-Ray Diffractometer XRD-6000,6,,,150
+Report_378,Rheometer R-4500,7,2,4,450
+Report_378,Microplate Reader MRX,6,1,4,2.1
+Report_378,Spectrometer Alpha-300,0,,,450
+Report_378,PCR Machine PCR-96,7,2,4,25
+Report_378,Conductivity Meter CM-215,6,,,1200
+Report_38,HPLC System HPLC-9000,6,3,5,12.4
+Report_38,Liquid Chromatograph LC-400,6,3,4,73.5
+Report_38,Spectrometer Alpha-300,6,2,5,210.6
+Report_38,pH Meter PH-700,0,1,4,5.8
+Report_38,Thermocycler TC-5000,6,,,[4-99] cycles
+Report_38,PCR Machine PCR-96,6,1,,28.7
+Report_38,Rheometer R-4500,6,3,5,320.2
+Report_38,Microplate Reader MRX,6,1,,1.8
+Report_38,Conductivity Meter CM-215,6,2,5,1450
+Report_38,Viscometer VS-300,6,2,,5199.81/5185.94
+Report_380,Rheometer R-4500,,,,350
+Report_380,Viscometer VS-300,,,,2524.24
+Report_380,Titrator T-905,,,,0.005
+Report_380,Thermocycler TC-5000,6,2,4,65
+Report_380,pH Meter PH-700,0,3,4,7.2
+Report_380,UV-Vis Spectrophotometer UV-2600,6,2,5,2.8
+Report_380,FTIR Spectrometer FTIR-8400,6,2,4,1800
+Report_380,X-Ray Diffractometer XRD-6000,0,3,4,95
+Report_398,Rheometer R-4500,6,,,0.1
+Report_398,pH Meter PH-700,,,,7
+Report_398,FTIR Spectrometer FTIR-8400,,,,1720
+Report_398,Viscometer VS-300,,,,2620.91
+Report_4,Gas Chromatograph GC-2010,6,2,,456.7
+Report_4,Gas Chromatograph GC-2010,7,1,4,982.5
+Report_4,Ion Chromatograph IC-2100,6,3,,72.8
+Report_4,Conductivity Meter CM-215,0,5,,1530
+Report_4,Conductivity Meter CM-215,7,2,,957
+Report_4,Rheometer R-4500,7,2,4,550.3
+Report_4,Viscometer VS-300,0,2,5,1897.86
+Report_4,Viscometer VS-300,6,3,5,5074.57
+Report_4,Four Ball FB-1000,,3,,0.678
+Report_411,Thermocycler TC-5000,,,,47
+Report_411,Spectrometer Alpha-300,,,,350
+Report_411,pH Meter PH-700,,,,8.3
+Report_411,Liquid Chromatograph LC-400,7,,,234.56
+Report_411,Gas Chromatograph GC-2010,,,,125.4
+Report_411,Microplate Reader MRX,,,,1.8
+Report_411,Rheometer R-4500,0,,,500
+Report_411,Viscometer VS-300,,,,7320.44
+Report_411,Viscometer VS-300,,,,2939.28
+Report_413,Spectrometer Alpha-300,7,3,5,450.5
+Report_413,Gas Chromatograph GC-2010,0,2,,250.1
+Report_413,HPLC System HPLC-9000,7,4,,8.75
+Report_413,NMR Spectrometer NMR-500,7,1,5,5.8
+Report_413,Ion Chromatograph IC-2100,0,5,,0.25
+Report_413,Rheometer R-4500,0,3,,200
+Report_413,Conductivity Meter CM-215,7,5,,1200
+Report_413,Microplate Reader MRX,0,,,0.5
+Report_413,PCR Machine PCR-96,7,4,,25
+Report_413,UV-Vis Spectrophotometer UV-2600,7,1,,1.2
+Report_422,Spectrometer Alpha-300,0,4,,550.75
+Report_422,Mass Spectrometer MS-20,7,4,,1250
+Report_422,UV-Vis Spectrophotometer UV-2600,0,2,4,1.2
+Report_422,Thermocycler TC-5000,0,3,,37.5
+Report_422,Rheometer R-4500,7,4,,450
+Report_422,pH Meter PH-700,6,,,7.2
+Report_422,NMR Spectrometer NMR-500,6,,,13.5
+Report_427,pH Meter PH-700,7,3,4,7.2
+Report_427,pH Meter PH-700,0,5,,6.8
+Report_427,Rheometer R-4500,6,3,5,250
+Report_427,Rheometer R-4500,6,4,,300
+Report_427,Titrator T-905,7,1,,0.005
+Report_427,PCR Machine PCR-96,7,1,5,28
+Report_427,Mass Spectrometer MS-20,7,1,4,1500
+Report_427,Liquid Chromatograph LC-400,7,4,,35
+Report_427,Spectrometer Alpha-300,0,3,5,450
+Report_427,Gas Chromatograph GC-2010,7,5,,5.5
+Report_427,Viscometer VS-300,7,5,,7744.27
+Report_427,Viscometer VS-300,0,1,4,3138.2
+Report_427,Viscometer VS-300,7,1,5,7378.83
+Report_457,Conductivity Meter CM-215,7,,,1200
+Report_457,Thermocycler TC-5000,7,,,37
+Report_457,Centrifuge X100,0,3,5,8000
+Report_457,Four Ball FB-1000,7,3,4,0.75
+Report_458,UV-Vis Spectrophotometer UV-2600,7,2,,2.5
+Report_458,PCR Machine PCR-96,7,2,4,15.2
+Report_458,Ion Chromatograph IC-2100,6,3,,0.089
+Report_458,FTIR Spectrometer FTIR-8400,6,3,4,1450
+Report_458,Liquid Chromatograph LC-400,0,,,50.7
+Report_458,UV-Vis Spectrophotometer UV-2600,0,,,3.1
+Report_46,Spectrometer Alpha-300,7,,,800
+Report_46,Viscometer VS-300,7,,,7168.93
+Report_46,Viscometer VS-300,0,,,2950.75
+Report_479,Liquid Chromatograph LC-400,,,,250.00 ug/mL
+Report_479,Liquid Chromatograph LC-400,,,,102.50 ug/mL
+Report_479,Viscometer VS-300,,,,2090.92 cP
+Report_479,Ion Chromatograph IC-2100,,,,75.00 mM
+Report_479,FTIR Spectrometer FTIR-8400,,,,1700 cm⁻¹
+Report_490,Microplate Reader MRX,,,,1.8 OD
+Report_490,X-Ray Diffractometer XRD-6000,,,,145°C
+Report_490,Spectrometer Alpha-300,,,,820 nm
+Report_490,Ion Chromatograph IC-2100,,,,25 mM
+Report_490,NMR Spectrometer NMR-500,,,,12 ppm
+Report_490,FTIR Spectrometer FTIR-8400,,,,3500 1/cm
+Report_490,Microplate Reader MRX,,,,2.3 OD
+Report_490,X-Ray Diffractometer XRD-6000,,,,90°C
+Report_507,Centrifuge X100,7,1,,8000
+Report_507,Centrifuge X100,6,3,5,12000
+Report_507,Mass Spectrometer MS-20,7,2,5,150
+Report_507,Mass Spectrometer MS-20,6,2,5,350
+Report_507,Rheometer R-4500,7,3,4,500
+Report_507,Rheometer R-4500,7,3,,250
+Report_507,HPLC System HPLC-9000,7,1,,0.5
+Report_507,HPLC System HPLC-9000,6,3,5,0.8
+Report_507,NMR Spectrometer NMR-500,7,2,5,5
+Report_507,NMR Spectrometer NMR-500,6,2,5,8
+Report_507,Four Ball FB-1000,7,3,4,0.75
+Report_507,Four Ball FB-1000,7,3,,0.65
+Report_507,Viscometer VS-300,6,3,,5130.62
+Report_507,Viscometer VS-300,0,3,5,2705.57
+Report_508,Gas Chromatograph GC-2010,7,3,5,25.6
+Report_508,Ion Chromatograph IC-2100,7,5,,50.2
+Report_508,Gas Chromatograph GC-2010,0,2,5,300.8
+Report_508,Four Ball FB-1000,6,1,,0.45
+Report_508,Four Ball FB-1000,0,1,4,0.75
+Report_508,X-Ray Diffractometer XRD-6000,6,4,,120
+Report_508,HPLC System HPLC-9000,6,2,5,850.3
+Report_533,FTIR Spectrometer FTIR-8400,6,2,,1600
+Report_533,Ion Chromatograph IC-2100,7,3,5,50
+Report_533,Gas Chromatograph GC-2010,6,5,,300
+Report_533,pH Meter PH-700,6,2,5,7.5
+Report_533,Conductivity Meter CM-215,0,1,4,1200
+Report_54,Gas Chromatograph GC-2010,6,1,,845.2
+Report_54,X-Ray Diffractometer XRD-6000,7,2,4,145
+Report_54,pH Meter PH-700,0,2,,7.5
+Report_54,Thermocycler TC-5000,7,1,4,37
+Report_54,Titrator T-905,0,1,,0.003
+Report_54,Conductivity Meter CM-215,6,1,5,1500
+Report_54,NMR Spectrometer NMR-500,7,4,,12.5
+Report_54,Viscometer VS-300,6,3,,5141.64
+Report_54,Viscometer VS-300,0,4,,2700.23
+Report_566,Rheometer R-4500,6,2,,320
+Report_566,Centrifuge X100,,,,
+Report_566,Viscometer VS-300,6,2,4,5246.93
+Report_566,Viscometer VS-300,6,1,,4813.86
+Report_57,Liquid Chromatograph LC-400,7,,,125.5 ug/mL
+Report_57,Liquid Chromatograph LC-400,0,3,4,210.75 ug/mL
+Report_57,Liquid Chromatograph LC-400,0,2,5,300.9 ug/mL
+Report_57,UV-Vis Spectrophotometer UV-2600,0,2,5,2.8 Abs
+Report_57,UV-Vis Spectrophotometer UV-2600,7,,,3.1 Abs
+Report_57,UV-Vis Spectrophotometer UV-2600,6,1,5,1.2 Abs
+Report_57,Titrator T-905,0,3,4,0.007 M
+Report_57,Titrator T-905,7,2,4,0.009 M
+Report_57,Mass Spectrometer MS-20,6,1,5,845 m/z
+Report_57,Mass Spectrometer MS-20,7,3,,980 m/z
+Report_57,Mass Spectrometer MS-20,0,2,5,1050 m/z
+Report_583,UV-Vis Spectrophotometer UV-2600,6,1,5,1.8
+Report_583,pH Meter PH-700,7,,,8.5
+Report_583,Microplate Reader MRX,6,3,4,2.4
+Report_583,Conductivity Meter CM-215,6,1,4,1250
+Report_583,PCR Machine PCR-96,7,3,4,20
+Report_625,X-Ray Diffractometer XRD-6000,6,2,4,145
+Report_625,Ion Chromatograph IC-2100,7,4,,12.5
+Report_625,X-Ray Diffractometer XRD-6000,6,1,5,165
+Report_625,Ion Chromatograph IC-2100,7,1,,9
+Report_625,Rheometer R-4500,0,3,4,350
+Report_625,Viscometer VS-300,0,2,4,2027.34
+Report_625,Viscometer VS-300,7,,,7412.58
+Report_625,Titrator T-905,0,,,2.5
+Report_625,FTIR Spectrometer FTIR-8400,6,5,,2500
+Report_625,Four Ball FB-1000,7,3,5,0.75
+Report_63,Titrator T-905,6,1,5,Concentration
+Report_63,PCR Machine PCR-96,7,2,,Cycle Threshold
+Report_63,Microplate Reader MRX,7,2,5,Optical Density
+Report_63,FTIR Spectrometer FTIR-8400,7,1,5,Wavenumber
+Report_63,NMR Spectrometer NMR-500,7,1,,Chemical Shift
+Report_646,FTIR Spectrometer FTIR-8400,6,1,,1500 1/cm
+Report_646,Spectrometer Alpha-300,6,1,5,650 nm
+Report_646,Microplate Reader MRX,6,1,,1.2 OD
+Report_646,Conductivity Meter CM-215,7,5,,800 uS/cm
+Report_646,Gas Chromatograph GC-2010,7,1,4,200 ppm
+Report_646,Ion Chromatograph IC-2100,7,5,,10 mM
+Report_646,Liquid Chromatograph LC-400,7,3,,250 ug/mL
+Report_646,Rheometer R-4500,0,3,4,500 Pa-s
+Report_646,Viscometer VS-300,6,3,5,5132.32 cP
+Report_646,Viscometer VS-300,7,,,7508.02 cP
+Report_646,Viscometer VS-300,0,1,5,3019.16 cP
+Report_658,Four Ball FB-1000,6,1,,Wear Scar Diameter
+Report_658,PCR Machine PCR-96,7,5,,Threshold Cycle
+Report_658,pH Meter PH-700,0,1,,pH Value
+Report_661,Rheometer R-4500,6,3,4,853.4
+Report_661,Microplate Reader MRX,0,3,5,2.3
+Report_67,Ion Chromatograph IC-2100,7,1,4,25.678
+Report_67,Conductivity Meter CM-215,7,4,,1500.35
+Report_67,Gas Chromatograph GC-2010,7,1,5,89.5
+Report_67,Four Ball FB-1000,6,5,,0.789
+Report_67,PCR Machine PCR-96,6,3,5,35.2
+Report_67,Spectrometer Alpha-300,0,3,5,650.45
+Report_67,pH Meter PH-700,6,1,5,7.2
+Report_67,Microplate Reader MRX,6,2,4,3.56
+Report_67,X-Ray Diffractometer XRD-6000,7,1,4,50
+Report_67,HPLC System HPLC-9000,6,3,5,650.25
+Report_67,Viscometer VS-300,,,,5175
+Report_67,Viscometer VS-300,,,,7737.43
+Report_690,Viscometer VS-300,7,3,,Viscosity
+Report_690,Viscometer VS-300,0,,,Viscosity
+Report_692,Gas Chromatograph GC-2010,,,,500
+Report_692,Liquid Chromatograph LC-400,,,,250
+Report_692,X-Ray Diffractometer XRD-6000,,,,120
+Report_692,pH Meter PH-700,,,,7
+Report_692,NMR Spectrometer NMR-500,,,,15
+Report_692,Conductivity Meter CM-215,,,,1500
+Report_692,Ion Chromatograph IC-2100,,,,50
+Report_692,Thermocycler TC-5000,,,,37
+Report_692,PCR Machine PCR-96,,,,28
+Report_692,Spectrometer Alpha-300,,,,850
+Report_692,Viscometer VS-300,,,,2062.71
+Report_692,Viscometer VS-300,,,,7835.67
+Report_692,Viscometer VS-300,,,,7323.88
+Report_712,Conductivity Meter CM-215,0,2,5,1500
+Report_712,X-Ray Diffractometer XRD-6000,7,,,120
+Report_712,Centrifuge X100,0,5,,5000
+Report_712,PCR Machine PCR-96,6,2,4,25
+Report_712,Viscometer VS-300,6,3,5,5137.78
+Report_712,Viscometer VS-300,6,1,,4746.57
+Report_758,Rheometer R-4500,0,3,4,2.5 Pa-s
+Report_758,Viscometer VS-300,6,3,5,4977.89 cP
+Report_758,Viscometer VS-300,6,5,,4900.09 cP
+Report_758,Viscometer VS-300,7,1,,7151.28 cP
+Report_758,UV-Vis Spectrophotometer UV-2600,0,1,,1.2 Abs
+Report_758,X-Ray Diffractometer XRD-6000,7,3,5,160°C
+Report_758,Centrifuge X100,6,2,4,12000 RPM
+Report_762,UV-Vis Spectrophotometer UV-2600,6,2,5,3.2
+Report_762,UV-Vis Spectrophotometer UV-2600,6,1,4,2.8
+Report_762,Centrifuge X100,0,5,,12000
+Report_762,Centrifuge X100,7,3,5,14000
+Report_762,Conductivity Meter CM-215,0,3,4,1500
+Report_762,Conductivity Meter CM-215,7,4,,1800
+Report_762,Mass Spectrometer MS-20,6,1,,800
+Report_762,Four Ball FB-1000,0,1,,0.3
+Report_762,FTIR Spectrometer FTIR-8400,7,1,5,3500
+Report_768,FTIR Spectrometer FTIR-8400,0,1,,1600
+Report_768,NMR Spectrometer NMR-500,7,1,4,10.5
+Report_777,UV-Vis Spectrophotometer UV-2600,7,,,2.5
+Report_777,UV-Vis Spectrophotometer UV-2600,6,,,1.75
+Report_777,UV-Vis Spectrophotometer UV-2600,,,,1.2
+Report_778,Conductivity Meter CM-215,7,2,4,1340
+Report_778,Viscometer VS-300,7,2,5,7720.2
+Report_778,Four Ball FB-1000,6,4,,0.59
+Report_778,UV-Vis Spectrophotometer UV-2600,0,,,2.1
+Report_778,Centrifuge X100,6,3,5,8000
+Report_778,Thermocycler TC-5000,0,2,4,37
+Report_778,Mass Spectrometer MS-20,0,2,5,650
+Report_778,HPLC System HPLC-9000,7,1,4,110
+Report_778,PCR Machine PCR-96,7,2,4,25
+Report_780,Mass Spectrometer MS-20,7,1,,1500
+Report_780,Mass Spectrometer MS-20,6,2,,1750
+Report_813,Conductivity Meter CM-215,,,,1500 µS/cm
+Report_813,Microplate Reader MRX,,,,2.5 OD
+Report_813,Liquid Chromatograph LC-400,,,,250 µg/mL
+Report_813,Titrator T-905,,,,5 M
+Report_817,Spectrometer Alpha-300,0,,,300
+Report_817,Viscometer VS-300,0,,,1983.03
+Report_826,Ion Chromatograph IC-2100,0,1,,24.56
+Report_826,HPLC System HPLC-9000,7,3,4,350.75
+Report_826,Gas Chromatograph GC-2010,7,4,,95.8
+Report_826,Liquid Chromatograph LC-400,7,3,4,250.4
+Report_826,Conductivity Meter CM-215,6,1,,1500
+Report_826,Spectrometer Alpha-300,0,,,550
+Report_826,FTIR Spectrometer FTIR-8400,7,3,5,1802
+Report_826,Centrifuge X100,0,1,,12000
+Report_826,Viscometer VS-300,6,2,4,5094.54
+Report_826,Viscometer VS-300,0,2,,1861.87
+Report_826,Viscometer VS-300,6,3,5,5212.75
+Report_827,pH Meter PH-700,6,5,,7.5
+Report_827,Ion Chromatograph IC-2100,6,,,0.005
+Report_827,Mass Spectrometer MS-20,6,2,5,850
+Report_827,X-Ray Diffractometer XRD-6000,6,1,,110
+Report_827,Rheometer R-4500,0,4,,400
+Report_84,Gas Chromatograph GC-2010,6,3,4,550
+Report_84,Mass Spectrometer MS-20,0,3,5,1250
+Report_84,Centrifuge X100,7,,,12000
+Report_84,Titrator T-905,0,4,,6.5
+Report_84,Ion Chromatograph IC-2100,0,2,5,75
+Report_84,Four Ball FB-1000,6,,,0.8
+Report_84,NMR Spectrometer NMR-500,6,3,4,10
+Report_84,Rheometer R-4500,0,,,500
+Report_84,Viscometer VS-300,6,4,,4925.02
+Report_84,Viscometer VS-300,7,1,,7165.85
+Report_84,Viscometer VS-300,6,3,4,5014.46
+Report_849,Microplate Reader MRX,6,5,,2.5
+Report_849,Conductivity Meter CM-215,7,2,4,750
+Report_853,NMR Spectrometer NMR-500,7,5,,15
+Report_853,Centrifuge X100,7,1,5,12000
+Report_853,PCR Machine PCR-96,0,3,4,25
+Report_853,Conductivity Meter CM-215,0,2,4,800
+Report_853,Titrator T-905,0,,,0.005
+Report_853,X-Ray Diffractometer XRD-6000,7,5,,70
+Report_853,Gas Chromatograph GC-2010,7,1,5,250
+Report_853,Mass Spectrometer MS-20,0,3,4,650
+Report_853,Microplate Reader MRX,0,2,4,2.5
+Report_853,Viscometer VS-300,6,1,,4959.28
+Report_853,Viscometer VS-300,0,2,5,1830.94
+Report_866,Microplate Reader MRX,0,2,,2.8
+Report_866,pH Meter PH-700,7,3,,5.5
+Report_866,Gas Chromatograph GC-2010,7,1,,320
+Report_891,Mass Spectrometer MS-20,7,1,,1750
+Report_891,NMR Spectrometer NMR-500,0,3,5,15
+Report_891,Rheometer R-4500,6,3,5,500
+Report_891,Titrator T-905,7,3,5,0.005
+Report_891,Microplate Reader MRX,0,1,,2.5
+Report_908,Four Ball FB-1000,6,3,4,0.425
+Report_908,Mass Spectrometer MS-20,0,,,1125
+Report_908,Liquid Chromatograph LC-400,7,5,,250
+Report_908,Thermocycler TC-5000,6,1,5,37
+Report_908,Microplate Reader MRX,7,1,4,2.5
+Report_908,pH Meter PH-700,6,,,6.5
+Report_908,HPLC System HPLC-9000,7,4,,150
+Report_908,Titrator T-905,0,2,5,0.007
+Report_908,Conductivity Meter CM-215,7,,,750
+Report_908,Viscometer VS-300,7,1,,7171.08
+Report_908,Viscometer VS-300,7,,,7704.28
+Report_948,Four Ball FB-1000,7,2,,0.55
+Report_948,Four Ball FB-1000,7,3,,0.75
+Report_948,Gas Chromatograph GC-2010,0,1,,750
+Report_948,pH Meter PH-700,7,3,,8.5
+Report_948,Liquid Chromatograph LC-400,0,2,,50
+Report_948,Conductivity Meter CM-215,6,3,5,1800
+Report_948,FTIR Spectrometer FTIR-8400,0,4,,3420
+Report_948,Centrifuge X100,0,3,,12000
+Report_948,Viscometer VS-300,7,2,4,7709.11
+Report_948,Viscometer VS-300,6,1,4,4788.7
+Report_949,Liquid Chromatograph LC-400,0,1,4,250
+Report_949,pH Meter PH-700,6,1,4,6.75
+Report_949,Ion Chromatograph IC-2100,6,3,4,55
+Report_949,Gas Chromatograph GC-2010,0,1,5,750
+Report_949,Titrator T-905,7,2,5,0.005
+Report_949,Viscometer VS-300,7,3,4,7386.29
+Report_949,Viscometer VS-300,7,2,4,7727.96
+Report_950,X-Ray Diffractometer XRD-6000,,,,120
+Report_950,Microplate Reader MRX,,,,1.5
+Report_950,pH Meter PH-700,0,,,7
+Report_950,Centrifuge X100,,,,450
+Report_950,HPLC System HPLC-9000,,,,250
+Report_950,Four Ball FB-1000,,,,0.75
+Report_978,PCR Machine PCR-96,0,1,4,26.5
+Report_978,Gas Chromatograph GC-2010,6,1,5,150.3
+Report_978,Four Ball FB-1000,6,2,5,0.735
+Report_978,NMR Spectrometer NMR-500,0,3,5,10.2
+Report_978,Liquid Chromatograph LC-400,0,4,,255.6
+Report_978,HPLC System HPLC-9000,7,2,5,450.88
+Report_978,Mass Spectrometer MS-20,0,1,4,1200
+Report_978,Viscometer VS-300,0,2,5,1875.54
+Report_978,Viscometer VS-300,0,2,5,1825.3
+Report_978,Viscometer VS-300,6,4,,5002.9
+Report_978,Spectrometer Alpha-300,6,1,5,540
+Report_993,PCR Machine PCR-96,0,2,4,28
+Report_993,Mass Spectrometer MS-20,7,3,5,1520
+Report_993,Gas Chromatograph GC-2010,7,1,,450
+Report_993,NMR Spectrometer NMR-500,6,2,5,19
+Report_993,Thermocycler TC-5000,7,2,,37
+Report_993,Centrifuge X100,7,1,4,8000
+Report_993,Viscometer VS-300,6,1,4,4792.39
